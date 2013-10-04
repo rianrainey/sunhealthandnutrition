@@ -1,0 +1,24 @@
+,,,,,,
+,"product_sku","product_node_id","nutrition_table_item","amount_per_serving","percent_daily_value ","Input Format"
+1,"0099",588,"Serving Size:","1 Capsule",,1
+2,"0099",588,"Servings Per Container:",90,,1
+3,"0099",588,"5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)","50 mg*"," ",1
+4,"0105",589,"Serving Size:","1 Vcap&ampreg;",,1
+5,"0105",589,"Servings Per Container:",60,,1
+6,"0105",589,"5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)","100 mg*100 mg*"," ",1
+7,"1252",622,"Serving Size:","3 Softgels",,1
+8,"1252",622,"Servings Per Container:",80,,1
+9,"1252",622,"Vitamin D3 (as Cholecalciferol) (from Lanolin)","600 IU",150%,1
+10,"1252",622,"Calcium (from Calcium Carbonate & Citrate)","1.0 g (1,000 mg)",100%,1
+11,"1252",622,"Magnesium (from Magnesium Oxide & Citrate)","500 mg",125%,1
+12,"1252",622,"Zinc (from Zinc Oxide)","10 mg",67%,1
+13,"1253",623,"Serving Size:","4 Capsules",,1
+14,"1253",623,"Servings Per Container:",30,,1
+15,"1253",623,"Calcium (Hydroxyapatite)","1.0 g",100%,1
+16,"1253",623,"Phosphorus (From Calcium Hydroxyapatite)","500 mg",50%,1
+17,"1276",641,"Serving Size:","2 Vcaps&ampreg;",,1
+18,"1276",641,"Servings Per Container:",50,,1
+19,"1276",641,"Vitamin D (as Ergocalciferol - a vegetarian source)","400 IU",100%,1
+20,"1276",641,"Calcium (from Fossilized Coral Calcium)","500 mg",50%,1
+21,"1276",641,"Magnesium (from Magnesium Oxide, Citrate, and Aspartate)","250 mg",60%,1
+22,"1276",641,"<b>Fossilized Coral Calcium</b>","<b>1.43 g (1,430 mg)</b>"," ",1

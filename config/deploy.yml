@@ -1,0 +1,6 @@
+production:
+  domain:
+    name: "debfordc@debford.com"
+  deploy_to: "/www/sunhealthandnutrition.debford.com"
+  repository: "git@github.com:rianrainey/sunhealthandnutrition.git"
+  branch: "master"

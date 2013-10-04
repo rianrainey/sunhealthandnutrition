@@ -1,0 +1,11 @@
+
+name = Open Graph meta tags
+description = Adds Open Graph meta tags to node pages for better social network sharing (e.g. http://developers.facebook.com/docs/share)
+package = Open Graph
+core = 6.x
+; Information added by drupal.org packaging script on 2011-12-05
+version = "6.x-1.6"
+core = "6.x"
+project = "opengraph_meta"
+datestamp = "1323105643"
+

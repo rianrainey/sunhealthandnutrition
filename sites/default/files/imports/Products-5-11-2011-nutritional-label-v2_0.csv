@@ -1,0 +1,1975 @@
+,,,,,,
+,"product_sku","product_node_id","nutrition_table_item","amount_per_serving","percent_daily_value ","Input Format"
+1,"0099",588,"Serving Size:","1 Capsule",,1
+2,"0099",588,"Servings Per Container:",90,,1
+3,"0099",588,"5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)","50 mg*"," ",1
+4,"0105",589,"Serving Size:","1 Vcap&ampreg;",,1
+5,"0105",589,"Servings Per Container:",60,,1
+6,"0105",589,"5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)5-HTP (5-hydroxytryptophan) (<i>Griffonia simplicifolia</i>) (Seed)","100 mg*100 mg*"," ",1
+7,"1252",622,"Serving Size:","3 Softgels",,1
+8,"1252",622,"Servings Per Container:",80,,1
+9,"1252",622,"Vitamin D3 (as Cholecalciferol) (from Lanolin)","600 IU",150%,1
+10,"1252",622,"Calcium (from Calcium Carbonate & Citrate)","1.0 g (1,000 mg)",100%,1
+11,"1252",622,"Magnesium (from Magnesium Oxide & Citrate)","500 mg",125%,1
+12,"1252",622,"Zinc (from Zinc Oxide)","10 mg",67%,1
+13,"1253",623,"Serving Size:","4 Capsules",,1
+14,"1253",623,"Servings Per Container:",30,,1
+15,"1253",623,"Calcium (Hydroxyapatite)","1.0 g",100%,1
+16,"1253",623,"Phosphorus (From Calcium Hydroxyapatite)","500 mg",50%,1
+17,"1276",641,"Serving Size:","2 Vcaps&ampreg;",,1
+18,"1276",641,"Servings Per Container:",50,,1
+19,"1276",641,"Vitamin D (as Ergocalciferol - a vegetarian source)","400 IU",100%,1
+20,"1276",641,"Calcium (from Fossilized Coral Calcium)","500 mg",50%,1
+21,"1276",641,"Magnesium (from Magnesium Oxide, Citrate, and Aspartate)","250 mg",60%,1
+22,"1276",641,"<b>Fossilized Coral Calcium</b>","<b>1.43 g (1,430 mg)</b>"," ",1
+23,"1434",774,"Serving Size:","1 Capsule",,1
+24,"1434",774,"Servings Per Container:",90,,1
+25,"1434",774,"Sodium","8 mg","<1% ",1
+26,"1434",774,"Calcium (from Citrimax®)","83 mg",8%,1
+27,"1434",774,"Iodine (from Kelp)","150 mcg",100%,1
+28,"1434",774,"ChromeMate®  Chromium (from Chromium Polynicotinate)","100 mcg",80%,1
+29,"1434",774,"Potassium","120 mg",4%,1
+30,"1434",774,"Super Citrimax® ; Garcinia cambogia  (fruit) Extract","750 mg","† ",1
+31,"1434",774,"Panax Ginseng Powder (root)","100 mg","† ",1
+32,"1452",741,"Serving Size:","1 Tablet",,1
+33,"1452",741,"Servings Per Container:",180,,1
+34,"1452",741,"Iodine (from Potassium Iodide)","225 mcg",150%,1
+35,"1452",741,"Sodium (from Sodium Alginate)","5 mg","<1% ",1
+36,"1452",741,"Potassium (from Potassium Chloride and Iodide)","99 mg",2%,1
+37,"1452",741,"Sodium Alginate","100 mg","† ",1
+38,"1552",801,"Serving Size:","1 Capsule",,1
+39,"1552",801,"Servings Per Container:",120,,1
+40,"1552",801,"Zinc (from Zinc Picolinate)","50 mg",333%,1
+41,"1715",617,"Serving Size:","1 Softgel",,1
+42,"1715",617,"Servings Per Container:",100,,1
+43,"1715",617,"Calories",5," ",1
+44,"1715",617,"Calories from Fat",5," ",1
+45,"1715",617,"Total Fat","0.5 g","<1% ",1
+46,"1715",617,"Saturated Fat","0 g",0%,1
+47,"1715",617,"Polyunsaturated Fat","0.3 g","† ",1
+48,"1715",617,"Gamma Linolenic Acid (GLA)","70 mg","† ",1
+49,"1715",617,"Alpha Linolenic Acid (ALA)","52 mg","† ",1
+50,"1715",617,"Monounsaturated Fat","0.2 g","† ",1
+51,"1715",617,"Black Currant Oil (Ribes nigrum) (seed)","500 mg","† ",1
+52,"1718",633,"Serving Size:","3 Softgels",,1
+53,"1718",633,"Servings Per Container:",40,,1
+54,"1718",633,"Calories",30," ",1
+55,"1718",633,"Calories from Fat",25," ",1
+56,"1718",633,"Total Fat","3 g",5%,1
+57,"1718",633,"Saturated Fat","2.5 g",13%,1
+58,"1718",633,"Trans Fat","0 g","† ",1
+59,"1718",633,"Polyunsaturated Fat","45 mg","† ",1
+60,"1718",633,"Monounsaturated Fat","175 mg","† ",1
+61,"1718",633,"Protein","0.7 g",1%,1
+62,"1718",633,"<b>Organic Virgin Coconut Oil</b>","<b>3.0 g (3,000 mg)</b>","<b>†</b> ",1
+63,"1725",634,"Serving Size:","1 TBSP (15 mL)",,1
+64,"1725",634,"Servings Per Container:",23,,1
+65,"1725",634,"<b>Calories</b>",120," ",1
+66,"1725",634,"Calories from Fat",120," ",1
+67,"1725",634,"<strong>Total Fat</strong>","14 g",22%,1
+68,"1725",634,"Saturated Fat","12 g",60%,1
+69,"1725",634,"Trans Fat","0 g"," ",1
+70,"1725",634,"Polyunsaturated Fat","0.2 g"," ",1
+71,"1725",634,"Monounsaturated Fat","0.8 g"," ",1
+72,"1727",630,"Serving Size:","3 Softgels",,1
+73,"1727",630,"Servings Per Container:",30,,1
+74,"1727",630,"Calories",27," ",1
+75,"1727",630,"Calories from Fat",27," ",1
+76,"1727",630,"Total Fat","3 g",5%,1
+77,"1727",630,"Saturated Fat","0 g",0%,1
+78,"1727",630,"Polyunsaturated Fat","3 g"," ",1
+79,"1727",630,"Safflower Oil ( High Linoleic Acid)","3.0 g (3,000 mg)"," ",1
+80,"1727",630,"<b>Conjugated Linoleic Acid (CLA)</b>","<b>2.4 g (2,400 mg)</b>"," ",1
+81,"1727",630,"Cis-9, Trans-11 Isomer","1.11 (1,110 mg)"," ",1
+82,"1727",630,"Trans-10, Cis-12 Isomer","1.11 g (1,110 mg)"," ",1
+83,"1727",630,"Other Isomers","180 mg"," ",1
+84,"1823",740,"Serving Size:","1 Vcap®",,1
+85,"1823",740,"Servings Per Container:",90,,1
+86,"1823",740,"Policosanol (from Sugar Cane)","10 mg *"," ",1
+87,"1840",748,"Serving Size:","2 Softgels",,1
+88,"1840",748,"Servings Per Container:",50,,1
+89,"1840",748,"Calories",20," ",1
+90,"1840",748,"Calories from Fat",20," ",1
+91,"1840",748,"Total Fat","2 g","3%* ",1
+92,"1840",748,"Saturated Fat","0.5 g","3%* ",1
+93,"1840",748,"Trans Fat","0 g","† ",1
+94,"1840",748,"Polyunsaturated Fat","1 g","† ",1
+95,"1840",748,"Monounsaturated Fat","0.5 g","† ",1
+96,"1840",748,"<b>Pumpkin Seed Oil (<i>Curcurbita pepo</i>)</b>","<strong>2.0 g (2,000 mg)</strong>","<strong>†</strong> ",1
+97,"1905",766,"Serving Size:","2 Vcaps®",,1
+98,"1905",766,"Servings Per Container:",30,,1
+99,"1905",766,"<b>Slimaluma® Extract</b>","<b>500 mg*</b>"," ",1
+100,"1905",766,"(<i>Caralluma fimbriata</i>) (Aerials) (min. 25% Pregnane Glycosides)",," ",1
+101,"1905",766,"<b>Green Tea Extract</b>","<b>200 mg*</b>"," ",1
+102,"1905",766,"(<i>Camellia sinensis</i>) (Leaf) (min. 98% Total Polyphenols,",," ",1
+103,"1905",766,"80% Total Catechins and 50% EGCg) (Contains 2 mg of naturally",," ",1
+104,"1905",766,"occurring caffeine)",," ",1
+105,"1905",766,"<b>Yerba Mate Extract</b> (<i>Ilex paraguariensis</i>)","<b>200 mg*</b>"," ",1
+106,"1905",766,"(Leaf) (min. 20% Total Polyphenols) (Contains 18 mg of naturally occurring",," ",1
+107,"1905",766,"caffeine)",," ",1
+108,"1908",789,"Serving Size:","2 Vcaps®",,1
+109,"1908",789,"Servings Per Container:",50,,1
+110,"1908",789,"Vitamin B-6 (from Pyridoxine HCl)","25 mg",1250%,1
+111,"1908",789,"Potassium (from Potassium Chloride)","99 mg",3%,1
+112,"1908",789,"Uva Ursi Extract (<i>Arctostaphylos uva-ursi</i>)","200 mg","† ",1
+113,"1908",789,"(Leaf) (Standardized to min. 20% Arbutin)",," ",1
+114,"1908",789,"Dandelion (<i>Taraxacum officinale</i>) (Leaf)","120 mg","† ",1
+115,"1908",789,"Goldenrod (<i>Solidago odora</i>) (Herb)","120 mg","† ",1
+116,"1908",789,"Juniper (<i>Juniperus communis</i>) (Berries)","100 mg","† ",1
+117,"1908",789,"Buchu (<i>Agathosma betulina</i>) (Leaf)","100 mg","† ",1
+118,"1908",789,"Bladderwrack (<i>Fucus vesiculosus</i>) (Thallus)","50 mg","† ",1
+119,"2004",605,"Serving Size:","3 Capsules",,1
+120,"2004",605,"Servings Per Container:",40,,1
+121,"2004",605,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+122,"2004",605,"L-Arginine","600 mg","† ",1
+123,"2004",605,"L-Citrulline","100 mg","† ",1
+124,"2004",605,"L-Norvaline","100 mg","† ",1
+125,"2004",605,"L-Ornithine (from L-Ornithine HCl)","200 mg","† ",1
+126,"2004",605,"Creatine Monohydrate (Micronized)","750 mg","† ",1
+127,"2004",605,"Yerba Mate Extract (<i>liex paraguariensis</i>) (Leaf)<br />(Contains 8 mg of naturally occurring caffeine)","100 mg","† ",1
+128,"2004",605,"Green Tea Extract (<i>Camellia sinensis</i>) (Leaf)<br />(60% Polyphenols, 40% Catechins) (&amplt;1 mg of naturally occurring caffeine)","100 mg","† ",1
+129,"2004",605,"Guarana Standardized Extract (<i>Paullinia cupana</i>) (Seed)<br />(Contains 11 mg of naturally occurring caffeine)","50 mg","† ",1
+130,"2004",605,"Gymnema Sylvestre Extract (GS4&ampreg;)<br />(25% Gymnenic Acid) (<em>Gymnema sylvestre</em>) (Leaf)","50 mg","† ",1
+131,"2004",605,"Rhodiola Extract (<i>Rhodiola rosea</i>) (Root) (3% Rosavins)","25 mg","† ",1
+132,"2004",605,"CoQ10 (Coenzyme Q10)","5 mg","† ",1
+133,"2004",605,"Octacosanol (from Spinach) (Wheat-Free)","1.0 mg (1,000 mcg)","† ",1
+134,"2005",606,"Serving Size:","1 Scoop (20 g)",,1
+135,"2005",606,"Servings Per Container:",50,,1
+136,"2005",606,"Calories",60," ",1
+137,"2005",606,"Total Carbohydrate","15 g","5%* ",1
+138,"2005",606,"Sugars","14 g","† ",1
+139,"2005",606,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+140,"2005",606,"L-Arginine","600 mg","† ",1
+141,"2005",606,"L-Citrulline","100 mg","† ",1
+142,"2005",606,"L-Norvaline","100 mg","† ",1
+143,"2005",606,"L-Ornithine (from L-Ornithine HCl)","200 mg","† ",1
+144,"2005",606,"Creatine Monohydrate (Micronized)","3.0 g (3,000 mg)","† ",1
+145,"2005",606,"Yerba Mate Extract (<em>Ilex paraguariensis</em>) (Leaf) (Contains 8 mg of naturally occurring caffeine)","100 mg","† ",1
+146,"2005",606,"Green Tea Extract (<em>Camellia sinensis</em>) (Leaf) (60% Polyphenols, 40% Catechins) (Contains 4 mg of naturally occurring caffeine)","100 mg","† ",1
+147,"2005",606,"Guarana Standardized Extract (<em>Paulinia cupana</em>) (Seed) (Contains 7.5 mg of naturally occurring caffeine)","50 mg","† ",1
+148,"2005",606,"Gymnema Sylvestre Extract (GS4®) (25% Gymnenic Acid) (<em>Gymnema sylvestre</em>) (Leaf)","50 mg","† ",1
+149,"2005",606,"Rhodiola Extract (<em>Rhodiola rosea</em>) (Root) (3% Rosavins)","25 mg","† ",1
+150,"2005",606,"CoQ10 (Coenzyme Q10)","5 mg","† ",1
+151,"2005",606,"Octacosanol (from Spinach) (Wheat-Free)","1.0 mg (1,000 mcg)","† ",1
+152,"2005",606,"Organic Stevia Extract (<em>Stevia rebaudiana</em>) (Leaf)","160 mg","† ",1
+153,"2020",625,"Serving Size:","1/2 Cup (50 g)",,1
+154,"2020",625,"Servings Per Container:",18,,1
+155,"2020",625,"Calories",190," ",1
+156,"2020",625,"Total Carbohydrate","47 g","16%* ",1
+157,"2020",625,"Sugars","2 g","† ",1
+158,"2020",625,"<strong>Carbo Powder</strong>","<strong>50 g</strong>","<strong>†</strong> ",1
+159,"2031",643,"Serving Size:","1 Heaping Teaspoon (5.0 g)",,1
+160,"2031",643,"Servings Per Container:",120,,1
+161,"2031",643,"Calories",15," ",1
+162,"2031",643,"Creatine Monohydrate","5.0 g (5,000 mg)","† ",1
+163,"2032",642,"Serving Size:","1 Heaping Teaspoon (5.0 g)",,1
+164,"2032",642,"Servings Per Container:",200,,1
+165,"2032",642,"Calories",15," ",1
+166,"2032",642,"Creatine Monohydrate","5.0 g (5000 mg)","† ",1
+167,"2040",655,"Serving Size:","1/4 Cup (20 g)",,1
+168,"2040",655,"Servings Per Container:",27,,1
+169,"2040",655,"Calories",75," ",1
+170,"2040",655,"Calories from Fat",0," ",1
+171,"2040",655,"<strong>Sodium</strong>","250 mg","<strong>10%</strong> ",1
+172,"2040",655,"<strong>Total Carbohydrate</strong>","0.9 g","<strong>&#60;1%</strong> ",1
+173,"2040",655,"<strong>Protein</strong>","16 g"," ",1
+174,"2040",655,"Vitamin A",,0%,1
+175,"2040",655,"Vitamin C",,0%,1
+176,"2040",655,"Calcium",,2%,1
+177,"2040",655,"Iron",,0,1
+178,"2040",655,"Riboflavin (B-2)",,27%,1
+179,"2040",655,,," ",1
+180,"2040",655,"<strong>Typical Amino Acid Profile</strong>",," ",1
+181,"2040",655,"<strong>Per 20 g Serving:</strong>",," ",1
+182,"2040",655,"L-Alanine","1200 mg"," ",1
+183,"2040",655,"L-Arginine","840 mg"," ",1
+184,"2040",655,"L-Aspartic Acid","1675 mg"," ",1
+185,"2040",655,"L-Glutamic Acid","2100 mg"," ",1
+186,"2040",655,"Glycine","525 mg"," ",1
+187,"2040",655,"L-Histidine","350 mg"," ",1
+188,"2040",655,"L-Isoleucine","725 mg"," ",1
+189,"2040",655,"L-Leucine","1205 mg"," ",1
+190,"2040",655,"L-Lysine","940 mg"," ",1
+191,"2040",655,"L-Methionine","785 mg"," ",1
+192,"2040",655,"L-Phenylalanine","850 mg"," ",1
+193,"2040",655,"L-Proline","565 mg"," ",1
+194,"2040",655,"L-Proline","565 mg"," ",1
+195,"2040",655,"L-Serine","1025 mg"," ",1
+196,"2040",655,"L-Threonine","695 mg"," ",1
+197,"2040",655,"L-Valine","1033 mg"," ",1
+198,"2052",657,"Serving Size:","1 Scoop (45 g)",,1
+199,"2052",657,"Servings Per Container:",22,,1
+200,"2052",657,"Calories",150," ",1
+201,"2052",657,"Total Fat","&#60; 0.5 g","&#60; 1%* ",1
+202,"2052",657,"Cholesterol","5 mg",2%,1
+203,"2052",657,"Total Carbohydrate","30 g","10%* ",1
+204,"2052",657,"Sugars","25 g","† ",1
+205,"2052",657,"Protein","6 g","12%* ",1
+206,"2052",657,"Beta-Carotene (as pro-Vitamin A 780 mcg)","1300 IU",26%,1
+207,"2052",657,"Vitamin C (as Ascorbic Acid)","250 mg",417%,1
+208,"2052",657,"Vitamin E (as d-alpha Tocopheryl Acetate)","30 IU",100%,1
+209,"2052",657,"Calcium (from Calcium Citrate)","50 mg",5%,1
+210,"2052",657,"Magnesium (from Magnesium Citrate)","180 mg",45%,1
+211,"2052",657,"Sodium","65 mg",3%,1
+212,"2052",657,"Potassium (from Potassium Gluconate)","250 mg",7%,1
+213,"2052",657,"Whey Protein Hydrolysate (Instantized)","4.0 g","† ",1
+214,"2052",657,"L-Glutamine (Free-Form)","1.0 g","† ",1
+215,"2052",657,"L-Arginine (Free-Form)","500 mg","† ",1
+216,"2052",657,"L-Valine (Free-Form)","500 mg","† ",1
+217,"2052",657,"L-Isoleucine (Free-Form)","250 mg","† ",1
+218,"2052",657,"L-Leucine (Free-Form)","250 mg","† ",1
+219,"2060",661,"Serving Size:","2 Heaping Tablespoons (32 g)",,1
+220,"2060",661,"Servings Per Container:",14,,1
+221,"2060",661,"Calories",150," ",1
+222,"2060",661,"Calories from Fat",60," ",1
+223,"2060",661,"Total Fat","6 g","9%* ",1
+224,"2060",661,"Saturated Fat","1 g","5%* ",1
+225,"2060",661,"Trans Fat","0 g","† ",1
+226,"2060",661,"Polyunsaturated Fat","3 g","† ",1
+227,"2060",661,"Monounsaturated Fat","1 g","† ",1
+228,"2060",661,"Cholesterol","0 mg",0%,1
+229,"2060",661,"Total Carbohydrate","12 g","4%* ",1
+230,"2060",661,"Dietary Fiber","4 g","16%* ",1
+231,"2060",661,"Sugars","4 g","† ",1
+232,"2060",661,"Protein","11 g","22%* ",1
+233,"2060",661,"Calcium (from Tri-Calcium Phosphate and Cal. Lactate)","670 mg",67%,1
+234,"2060",661,"Phosphorous","200 mg",20%,1
+235,"2060",661,"Magnesium","60 mg",15%,1
+236,"2060",661,"Sodium","15 mg","<1% ",1
+237,"2060",661,"Inulin [from Chicory (<i>Cichorium intybus)</i> Root]","1.75 g (1,750 mg)","† ",1
+238,"2060",661,"Bromelain (2400 GDU/g)","150 mg","† ",1
+239,"2060",661,"Beta-1,3/1,6-D-Glucan Powder","100 mg","† ",1
+240,"2060",661,"<i>Stevia rebaudiana</i> Extract (Leaf)","55 mg","† ",1
+241,"2060",661,,," ",1
+242,"2060",661,"<strong>Typical Profile of naturally occurring nutrients (per serving)**</strong>",," ",1
+243,"2060",661,"Total Soy Isoflavones","49 mg","† ",1
+244,"2060",661,"Genistein","24 mg","† ",1
+245,"2060",661,"Daidzein","22 mg","† ",1
+246,"2060",661,"Glycetin","3 mg","† ",1
+247,"2105",690,"Serving Size:","3 Tablets",,1
+248,"2105",690,"Servings Per Container:",40,,1
+249,"2105",690,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+250,"2105",690,"Chromium (from Chromax® Chromium Picolinate)","200 mcg",167%,1
+251,"2105",690,"Choline (as Choline Bitartrate)","850 mg","† ",1
+252,"2105",690,"Inositol","1.0 g (1,000 mg)","† ",1
+253,"2105",690,"L-Methionine","500 mg","† ",1
+254,"2105",690,"Taurine","250 mg","† ",1
+255,"2105",690,"L-Carnitine (as L-Carnitine Tartrate)","100 mg","† ",1
+256,"2135",738,"Serving Size:","1 Level Scoop (33 g)",,1
+257,"2135",738,"Servings Per Container:",27,,1
+258,"2135",738,"Calories",130," ",1
+259,"2135",738,"Total Fat","2 g","3%* ",1
+260,"2135",738,"Trans Fat","0 g","† ",1
+261,"2135",738,"Cholesterol","0 mg",0%,1
+262,"2135",738,"Total Carbohydrate","1 g","&#60;1%* ",1
+263,"2135",738,"Dietary Fiber","0 g","0%* ",1
+264,"2135",738,"Sugars","0 g","† ",1
+265,"2135",738,"Protein","28 g","56%* ",1
+266,"2135",738,"Sodium","330 mg",14%,1
+267,"2135",738,,," ",1
+268,"2135",738,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+269,"2135",738,"<strong>Essential Amino Acids</strong>","<strong>mg Per 33 g Serving</strong>"," ",1
+270,"2135",738,"L-Histidine",660," ",1
+271,"2135",738,"L-Isoleucine",1287," ",1
+272,"2135",738,"L-Leucine",2244," ",1
+273,"2135",738,"L-Lysine",1980," ",1
+274,"2135",738,"L-Methionine",264," ",1
+275,"2135",738,"L-Phenylalanine",1419," ",1
+276,"2135",738,"L-Threonine",1089," ",1
+277,"2135",738,"L-Tryptophan",264," ",1
+278,"2135",738,"L-Valine",1353," ",1
+279,"2135",738,"<strong>Non-Essential Amino Acids</strong>",," ",1
+280,"2135",738,"L-Alanine",1122," ",1
+281,"2135",738,"L-Arginine",2376," ",1
+282,"2135",738,"L-Aspartic Acid",3135," ",1
+283,"2135",738,"L-Cysteine",594," ",1
+284,"2135",738,"L-Glutamic Acid",4686," ",1
+285,"2135",738,"Glycine",1122," ",1
+286,"2135",738,"L-Proline",1221," ",1
+287,"2135",738,"L-Serine",1386," ",1
+288,"2135",738,"L-Tyrosine",1023,"- ",1
+289,"2135",738,"<strong>Total</strong>","<strong>27,225 mg</strong>"," ",1
+290,"2140",749,"Serving Size:","2 Tablets",,1
+291,"2140",749,"Servings Per Container:",45,,1
+292,"2140",749,"Calcium (from Calcium Pyruvate)","260 mg",26%,1
+293,"2140",749,"<strong>Calcium Pyruvate</strong>","<strong>2.0 g (2,000 mg)</strong>","<strong>†</strong> ",1
+294,"2140",749,"Pyruvic Acid","1.2 g (1,200 mg)","† ",1
+295,"2144",652,"Serving Size:","6 Vcaps&ampreg;",,1
+296,"2144",652,"Servings Per Container:",10,,1
+297,"2144",652,"Calories",20," ",1
+298,"2144",652,"Total Carbohydrates","4.5 g",2%,1
+299,"2144",652,"<b>D-Ribose Powder (Bioenergy RIBOSE™)</b>","<b>4.5 g (4,500 mg)</b>","<b>†</b> ",1
+300,"2146",653,"Serving Size:","1 1/2 Level Teaspoons (5 g)",,1
+301,"2146",653,"Servings Per Container:",22,,1
+302,"2146",653,"Calories",20," ",1
+303,"2146",653,"Total Carbohydrates","5 g","2%* ",1
+304,"2146",653,"<b>D-Ribose Powder (Bioenergy RIBOSE™)</b>","<b>5 g (5,000 mg)</b>","<b>†</b> ",1
+305,"2148",755,"Serving Size:","1 Chewable Tablet",,1
+306,"2148",755,"Servings Per Container:",90,,1
+307,"2148",755,"Calories",10," ",1
+308,"2148",755,"Total Carbohydrate","2 g","<1% ",1
+309,"2148",755,"Sugars","2 g"," ",1
+310,"2148",755,"Beta-Carotene (as pro-Vitamin A 150 mcg)","250 IU",5%,1
+311,"2148",755,"<strong>D-Ribose Powder (Bioenergy RIBOSE</strong><strong>™)</strong>","<strong>1.5 g (1,500 mg)</strong>","<strong>†</strong> ",1
+312,"2148",755,"Dextrose","350 mg","† ",1
+313,"2168",780,"Serving Size:","2 Vcaps&ampreg;",,1
+314,"2168",780,"Servings Per Container:",30,,1
+315,"2168",780,"Vitamin B-6 (from Pyridoxine HCl)","3.5 mg",175%,1
+316,"2168",780,"Magnesium (from Maganesium Aspartate)","150 mg",38%,1
+317,"2168",780,"Zinc (from Zinc L-Monomethionine and Zinc Aspartate)","10 mg",67%,1
+318,"2168",780,"<strong>ZMA&ampreg; (Patented mineral blend of Zinc L-Monomethionine, Magnesium/</strong>Zinc Aspartate, and Pyridoxine HCl)","<strong>808 mg</strong>","<strong>&ampdagger;</strong> ",1
+319,"2168",780,"Eleuthero (<i>Eleutherococcus senticosus</i>) (Root)","300 mg","† ",1
+320,"2168",780,"<i>Tribulus terrestris</i> Extract (Fruit) (min. 20% Protodioscin)","250 mg","† ",1
+321,"2168",780,"<strong>LJ100</strong>®<strong> Tongkat Ali (<em>Eurycoma longifolia</em> Extract) (Root) (min. 22% Eurypeptides)</strong>","<strong>50 mg</strong>","<strong>†</strong> ",1
+322,"2170",782,"Serving Size:","1 Capsule",,1
+323,"2170",782,"Servings Per Container:",100,,1
+324,"2170",782,"<em>Tribulus terrestris</em> (Standardized Extract) (min. 45% Saponins) (Aerial Parts and Fruit)","500 mg*"," ",1
+325,"2173",793,"Serving Size:","1 Scoop (42 g)",,1
+326,"2173",793,"Servings Per Container:",12,,1
+327,"2173",793,"Calories",165," ",1
+328,"2173",793,"Calories from Fat",15," ",1
+329,"2173",793,"Total Fat","1.5 g","2%* ",1
+330,"2173",793,"Saturated Fat","0.8 g","4%* ",1
+331,"2173",793,"Trans Fat","0 g","† ",1
+332,"2173",793,"Cholesterol","4 mg",1%,1
+333,"2173",793,"Total Carbohydrate","9 g","3%* ",1
+334,"2173",793,"Sugars","9 g","† ",1
+335,"2173",793,"Protein","30 g","60%* ",1
+336,"2173",793,"Calcium","90 mg",9%,1
+337,"2173",793,"Sodium","100 mg",4%,1
+338,"2173",793,"Potassium","128 mg",4%,1
+339,"2173",793,"<em>Stevia rebaudiana</em> Extract (Leaf)","93 mg","† ",1
+340,"2173",793,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+341,"2173",793,"<strong>Essential Amino Acids</strong>","<strong>mg Per 42 g Serving</strong>"," ",1
+342,"2173",793,"L-Isoleucine",1712," ",1
+343,"2173",793,"L-Leucine",3120," ",1
+344,"2173",793,"L-Lysine",2600," ",1
+345,"2173",793,"L-Methionine",734," ",1
+346,"2173",793,"L-Phenylalanine",885," ",1
+347,"2173",793,"L-Threonine",1914," ",1
+348,"2173",793,"L-Tryptophan",455," ",1
+349,"2173",793,"L-Valine",1529," ",1
+350,"2173",793,"<b>Non-essential Amino Acids</b>",," ",1
+351,"2173",793,"L-Alanine",1442," ",1
+352,"2173",793,"L-Arginine",762," ",1
+353,"2173",793,"L-Aspartic Acid",2969," ",1
+354,"2173",793,"L-Cysteine",629," ",1
+355,"2173",793,"L-Glutamic Acid",5400," ",1
+356,"2173",793,"L-Glutamine",830," ",1
+357,"2173",793,"Glycine",497," ",1
+358,"2173",793,"L-Histidine",450," ",1
+359,"2173",793,"L-Proline",1725," ",1
+360,"2173",793,"L-Serine",1389," ",1
+361,"2173",793,"L-Tyrosine",875," ",1
+362,"2173",793,"<strong>Total</strong>","<strong>29,917 mg</strong>"," ",1
+363,"2175",794,"Serving Size:","1 Scoop (42 g)",,1
+364,"2175",794,"Servings Per Container:",21,,1
+365,"2175",794,"Calories",165," ",1
+366,"2175",794,"Calories from Fat",15," ",1
+367,"2175",794,"Total Fat","1.5 g","2%* ",1
+368,"2175",794,"Saturated Fat","0.8 g","4%* ",1
+369,"2175",794,"Trans Fat","0 g","† ",1
+370,"2175",794,"Cholesterol","4 mg",1%,1
+371,"2175",794,"Total Carbohydrate","9 g","3%* ",1
+372,"2175",794,"Sugars","9 g","† ",1
+373,"2175",794,"Protein","30 g","60%* ",1
+374,"2175",794,"Calcium","90 mg",9%,1
+375,"2175",794,"Sodium","100 mg",4%,1
+376,"2175",794,"Potassium","128 mg",4%,1
+377,"2175",794,"<em>Stevia rebaudiana</em> Extract (Leaf)","93 mg","† ",1
+378,"2175",794,,," ",1
+379,"2175",794,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+380,"2175",794,"<strong>Essential Amino Acids</strong>","<strong>mg Per 42 g Serving</strong>"," ",1
+381,"2175",794,"L-Isoleucine",1712," ",1
+382,"2175",794,"L-Leucine",3120," ",1
+383,"2175",794,"L-Lysine",2600," ",1
+384,"2175",794,"L-Methionine",734," ",1
+385,"2175",794,"L-Phenylalanine",885," ",1
+386,"2175",794,"L-Threonine",1914," ",1
+387,"2175",794,"L-Tryptophan",455," ",1
+388,"2175",794,"L-Valine",1529," ",1
+389,"2175",794,"<strong>Non-Essential Amino Acids</strong>",," ",1
+390,"2175",794,"L-Alanine",1442," ",1
+391,"2175",794,"L-Arginine",762," ",1
+392,"2175",794,"L-Aspartic Acid",2969," ",1
+393,"2175",794,"L-Cysteine",629," ",1
+394,"2175",794,"L-Glutamic Acid",5400," ",1
+395,"2175",794,"L-Glutamine",830," ",1
+396,"2175",794,"Glycine",497," ",1
+397,"2175",794,"L-Histidine",450," ",1
+398,"2175",794,"L-Proline",1725," ",1
+399,"2175",794,"L-Serine",1389," ",1
+400,"2175",794,"L-Tyrosine",875," ",1
+401,"2175",794,"<strong>Total</strong>","<strong>29,917 mg</strong>"," ",1
+402,"2178",792,"Serving Size:","1 Scoop (42 g)",,1
+403,"2178",792,"Servings Per Container:",21,,1
+404,"2178",792,"Calories",155," ",1
+405,"2178",792,"Calories from Fat",15," ",1
+406,"2178",792,"Total Fat","1.5 g","2%* ",1
+407,"2178",792,"Saturated Fat","1 g","5%* ",1
+408,"2178",792,"Trans Fat","0 g","† ",1
+409,"2178",792,"Cholesterol","24 mg",8%,1
+410,"2178",792,"Total Carbohydrate","9 g","3%* ",1
+411,"2178",792,"Sugars","7 g","† ",1
+412,"2178",792,"Protein","26 g","52%* ",1
+413,"2178",792,"Calcium","170 mg",17%,1
+414,"2178",792,"Sodium","73 mg",3%,1
+415,"2178",792,"<i>Stevia rebaudiana</i> Extract (Leaf)","97 mg","† ",1
+416,"2178",792,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+417,"2178",792,"<strong>Essential Amino Acids</strong>","<strong>mg Per 42 g Serving</strong>"," ",1
+418,"2178",792,"L-Isoleucine",1709," ",1
+419,"2178",792,"L-Leucine",2973," ",1
+420,"2178",792,"L-Lysine",2248," ",1
+421,"2178",792,"L-Methionine",607," ",1
+422,"2178",792,"L-Phenylalanine",887," ",1
+423,"2178",792,"L-Threonine",2062," ",1
+424,"2178",792,"L-Tryptophan",458," ",1
+425,"2178",792,"L-Valine",1630," ",1
+426,"2178",792,"<strong>Non-Essential Amino Acids</strong>",," ",1
+427,"2178",792,"L-Alanine",1357," ",1
+428,"2178",792,"L-Arginine",930," ",1
+429,"2178",792,"L-Aspartic Acid",3088," ",1
+430,"2178",792,"L-Cysteine",716," ",1
+431,"2178",792,"L-Glutamic Acid",5022," ",1
+432,"2178",792,"L-Glutamine",380," ",1
+433,"2178",792,"Glycine",592," ",1
+434,"2178",792,"L-Histidine",518," ",1
+435,"2178",792,"L-Proline",2199," ",1
+436,"2178",792,"L-Serine",1544," ",1
+437,"2178",792,"L-Tyrosine",919," ",1
+438,"2178",792,"<strong>Total</strong>","<strong>29,839 mg</strong>"," ",1
+439,"2180",791,"Serving Size:","1 Scoop (42g)",,1
+440,"2180",791,"Servings Per Container:",21,,1
+441,"2180",791,"Calories",160," ",1
+442,"2180",791,"Calories from Fat",15," ",1
+443,"2180",791,"Total Fat","1.5 g","2%* ",1
+444,"2180",791,"Saturated Fat","1.2 g","6%* ",1
+445,"2180",791,"Trans Fat","0 g","† ",1
+446,"2180",791,"Cholesterol","5.5 mg",2%,1
+447,"2180",791,"Total Carbohydrate","12 g","4%* ",1
+448,"2180",791,"Sugars","7.5 g","† ",1
+449,"2180",791,"Protein","24 g","48%* ",1
+450,"2180",791,"Calcium","72 mg",7%,1
+451,"2180",791,"Sodium","81 mg",3%,1
+452,"2180",791,"Potassium","137 mg",4%,1
+453,"2180",791,"Organic Stevia Extract <i>(Stevia rebaudiana)</i> (Leaf)","300 mg","† ",1
+454,"2180",791,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+455,"2180",791,"<strong>Essential Amino Acids</strong>","<strong>mg Per 42 g Serving</strong>"," ",1
+456,"2180",791,"L-Isoleucine",1458," ",1
+457,"2180",791,"L-Leucine",2873," ",1
+458,"2180",791,"L-Lysine",2226," ",1
+459,"2180",791,"L-Methionine",558," ",1
+460,"2180",791,"L-Phenylalanine",849," ",1
+461,"2180",791,"L-Threonine",1790," ",1
+462,"2180",791,"L-Tryptophan",458," ",1
+463,"2180",791,"L-Valine",1382," ",1
+464,"2180",791,"<strong>Non-Essential Amino Acids</strong>",," ",1
+465,"2180",791,"L-Alanine",1895," ",1
+466,"2180",791,"L-Arginine",663," ",1
+467,"2180",791,"L-Aspartic Acid",2777," ",1
+468,"2180",791,"L-Cysteine",458," ",1
+469,"2180",791,"L-Glutamic Acid",4326," ",1
+470,"2180",791,"L-Glutamine",420," ",1
+471,"2180",791,"Glycine",492," ",1
+472,"2180",791,"L-Histidine",525," ",1
+473,"2180",791,"L-Proline",1353," ",1
+474,"2180",791,"L-Serine",1491," ",1
+475,"2180",791,"L-Tyrosine",861," ",1
+476,"2180",791,"<strong>Total</strong>","<strong>26,855 mg</strong>"," ",1
+477,"2186",795,"Serving Size:","1 Scoop (42 g)",,1
+478,"2186",795,"Servings Per Container:",64,,1
+479,"2186",795,"Calories",165," ",1
+480,"2186",795,"Calories from Fat",15," ",1
+481,"2186",795,"Total Fat","1.5 g","2%* ",1
+482,"2186",795,"Saturated Fat","0.5 g","3%* ",1
+483,"2186",795,"Trans Fat","0 g","† ",1
+484,"2186",795,"Cholesterol","6 mg",2%,1
+485,"2186",795,"Total Carbohydrate","11 g","4%* ",1
+486,"2186",795,"Sugars","5 g","† ",1
+487,"2186",795,"Protein","26 g","52%* ",1
+488,"2186",795,"Calcium","173 mg",17%,1
+489,"2186",795,"Sodium","104 mg",4%,1
+490,"2186",795,"Potassium","137 mg",4%,1
+491,"2186",795,"<i>Stevia rebaudiana</i> Extract (Leaf)","84 mg","† ",1
+492,"2186",795,,," ",1
+493,"2186",795,"<strong>TYPICAL AMINO ACID PROFILE</strong>",," ",1
+494,"2186",795,"<strong>Essential Amino Acids</strong>","<strong>mg Per 42 g Serving</strong>"," ",1
+495,"2186",795,"L-Isoleucine",1668," ",1
+496,"2186",795,"L-Leucine",2730," ",1
+497,"2186",795,"L-Lysine",2364," ",1
+498,"2186",795,"L-Methionine",555," ",1
+499,"2186",795,"L-Phenylalanine",831," ",1
+500,"2186",795,"L-Threonine",2042," ",1
+501,"2186",795,"L-Tryptophan",471," ",1
+502,"2186",795,"L-Valine",1533," ",1
+503,"2186",795,"<strong>Non-Essential Amino Acids</strong>",," ",1
+504,"2186",795,"L-Alanine",1370," ",1
+505,"2186",795,"L-Arginine",677," ",1
+506,"2186",795,"L-Aspartic Acid",3171," ",1
+507,"2186",795,"L-Cysteine",504," ",1
+508,"2186",795,"L-Glutamic Acid",4884," ",1
+509,"2186",795,"L-Glutamine",460," ",1
+510,"2186",795,"Glycine",513," ",1
+511,"2186",795,"L-Histidine",467," ",1
+512,"2186",795,"L-Proline",1671," ",1
+513,"2186",795,"L-Serine",1449," ",1
+514,"2186",795,"L-Tyrosine",563," ",1
+515,"2186",795,"Total","27,923 mg"," ",1
+516,"2198",779,"Serving Size:","2 Vcaps&ampreg;",,1
+517,"2198",779,"Servings Per Container:",30,,1
+518,"2198",779,"Tongkat Ali (<em>Eurycoma longifolia</em> Extract) (Root) (min. 10% Saponins)","200 mg","* ",1
+519,"2198",779,"Maca Root (<em>Lepidium meyenii</em>) (4:1 Concentrate)","500 mg","* ",1
+520,"2198",779,"Epimedium Extract (Horny goat Weed) (Aerial Parts/Leaf) (<em>Epimedium sagittatum</em>) (min. 10% Icarin)","250 mg","* ",1
+521,"2198",779,"<em>Tribulus terrestris</em> Extract (Fruit) (min. 45% Saponins)","250 mg","* ",1
+522,"2198",779,"American Ginseng Root (<em>Panax quinquefolium</em>)","75 mg","* ",1
+523,"2198",779,"Panax Ginseng Root (<em>Panax ginseng</em>)","75 mg","* ",1
+524,"2198",779,"Muira Puama (<em>Ptychopetalum olacoides</em>) (Bark) (10:1 Concentrate)","50 mg","* ",1
+525,"2199",699,"Serving Size:","1 Tablespoon (15 mL)",,1
+526,"2199",699,"Servings Per Container:",63,,1
+527,"2199",699,"Calories",100," ",1
+528,"2199",699,"Calories from Fat",100," ",1
+529,"2199",699,"Total Fat","14 g",22%,1
+530,"2199",699,"Saturated Fat","14 g",70%,1
+531,"2199",699,"Trans Fat","0 g","† ",1
+532,"2199",699,"Polyunsaturated Fat","0 g","† ",1
+533,"2199",699,"Monounsaturated Fat","0 g","† ",1
+534,"2199",699,"<b>Each 15 mL serving may typically provide the following</b>",," ",1
+535,"2199",699,"<b>naturally occurring fatty acids</b>",," ",1
+536,"2199",699,"Caprylic Acid (C8:0)","7.8 g","† ",1
+537,"2199",699,"Capric Acid (C10:0)","6.2 g","† ",1
+538,"2200",802,"Serving Size:","3 Capsules for Men (2 Capsules for Women)",,1
+539,"2200",802,"Servings Per Container:","30 for Men (45 for Women)",,1
+540,"2200",802,"Vitamin B-6 (from Pyridoxine HCl)","15mg",750%,1
+541,"2200",802,"Magnesium (from Magnesium Aspartate)","450mg",113%,1
+542,"2200",802,"Zinc (from Zinc L-Methionine and Zinc Aspartate)","30mg",200%,1
+543,"2200",802,"<strong>ZMA&ampreg; (patented mineral blend of Zinc L-Methionine,<br /> Zinc Aspartate, Magnesium Aspartate and Pyridoxine HCl)</strong>","<strong>2.4 g (2,400 mg)</strong>","<strong>&ampdagger;</strong> ",1
+544,"2410",620,"Serving Size:","3 Tablets",,1
+545,"2410",620,"Servings Per Container:",66,,1
+546,"2410",620,"Calories",5," ",1
+547,"2410",620,"Total Carbohydrate","0.7 g","&#60;1%* ",1
+548,"2410",620,"Protein","1 g","2%* ",1
+549,"2410",620,"Sodium","7 mg","<1% ",1
+550,"2410",620,"<b>Brewer's Yeast</b>","<b>1.95 g (1,950 mg)</b>","<b>†</b> ",1
+551,"2410",620,"<strong>Each serving may typically provide the following naturally occuring nutrients:</strong>",," ",1
+552,"2410",620,"Thiamine","250  mcg",17%,1
+553,"2410",620,"Riboflavin (Vitamin B-2)","110 mcg",6%,1
+554,"2410",620,"Niacin","670 mcg",3%,1
+555,"2410",620,"Vitamin B-6","50 mcg",3%,1
+556,"2410",620,"Folic Acid","30 mcg",8%,1
+557,"2454",654,"Serving Size:","A.M. 2 Vcaps&ampreg;P.M. 4 Vcaps&ampreg;",,1
+558,"2454",654,"Servings Per Container:","A.M. 30 P.M. 15",,1
+559,"2454",654,"<strong>Easy Cleanse</strong><strong>™</strong><strong> A.M.</strong>",," ",1
+560,"2454",654,"Potassium (from Potassium Gluconate)","15 mg","&#60;1% ",1
+561,"2454",654,"Ashwagandha (<em>Wihania somnifera</em>) (Root)","100 mg","† ",1
+562,"2454",654,"Bentonite Clay Powder","100 mg","† ",1
+563,"2454",654,"Dandelion (<em>Taraxacum officinale</em>) (Leaf)","100 mg","† ",1
+564,"2454",654,"Milk Thistle Extract (<em>Silybum marianum</em>) (Fruit and Seeds) (Standardized to min. 80% Silymarin Flavonoids)","100 mg","† ",1
+565,"2454",654,"Chlorella","100 mg","† ",1
+566,"2454",654,"Uva Ursi Extract (<em>Arclostaphylos, uva-ursi) </em>(Leaf)(Standardized to min. 20% Arbulin)","70 mg","† ",1
+567,"2454",654,"Ginger Extract (<em>Zingiber officinale</em>) (Root) (Standardized to min. 5% Gingerols)","50 mg","† ",1
+568,"2454",654,"Buchu (<em>Agathosma belulina</em>) (Leaf)","50 mg","† ",1
+569,"2454",654,"Parsley (<em>Petroselinum crispum</em>)","50 mg","† ",1
+570,"2454",654,"Red Clover (<em>trifolium pratense</em>) (Tops)","50 mg","† ",1
+571,"2454",654,"Marshmallow (<em>Althaea officinalis</em>) (Root)","20 mg","† ",1
+572,"2454",654,"Chlorophyll","10 mg","† ",1
+573,"2454",654,"<strong>Easy Cleanse</strong><strong>™</strong> <strong>P.M.</strong>",," ",1
+574,"2454",654,"Ojibwa 4:1 Extract<br /> [A proprietary blend of Burdock (Arctium lappa) (Root), Sheep Sorrel (Rumex acetosella) (Leaf), Slippery Elm (Ulmus fulva) (Bark) and Turkey Rhubarb (Rheum palmatum) (Root)]","500 mg*<br />"," ",1
+575,"2454",654,"Apple Pectin","300 mg*"," ",1
+576,"2454",654,"Glucomannan (from Konjac Root) (<i>Amorphophallus konjac</i>)","200 mg*"," ",1
+577,"2454",654,"Gum Acacia","200 mg*"," ",1
+578,"2454",654,"Cascara Sagrada (<i>Rhamnus purshiania</i>) (Bark)","200 mg*"," ",1
+579,"2454",654,"Aloe Vera Concentrate (200:1)","100 mg*"," ",1
+580,"2454",654,"Fennel (<i>Foeniculum vulgare</i>) (Seed)","100 mg*"," ",1
+581,"2455",707,"Serving Size:","2 Heaping Tablespoons (16 g)",,1
+582,"2455",707,"Servings Per Container:",17,,1
+583,"2455",707,"Calories",60," ",1
+584,"2455",707,"Calories from Fat",10," ",1
+585,"2455",707,"Total Fat","1 g",2%,1
+586,"2455",707,"Saturated Fat","0 g",0%,1
+587,"2455",707,"Trans Fat","0 g"," ",1
+588,"2455",707,"<strong>Cholesterol</strong>","0 mg",0%,1
+589,"2455",707,"<b>Sodium</b>","5 mg",1%,1
+590,"2455",707,"<strong>Potassium</strong>","320 mg",9%,1
+591,"2455",707,"<strong>Total Carbohydrate</strong>","5 g",2%,1
+592,"2455",707,"Dietary Fiber","4 g",16%,1
+593,"2455",707,"Sugars","0 g"," ",1
+594,"2455",707,"<b>Protein</b>","9 g"," ",1
+595,"2455",707,"Vitamin A",,0%,1
+596,"2455",707,"Vitamin C",,0%,1
+597,"2455",707,"Calcium",,0%,1
+598,"2455",707,"Iron",,5%,1
+599,"2455",707,"Thiamine (B-1)",,670%,1
+600,"2455",707,"Riboflavin (B-2)",,590%,1
+601,"2455",707,"Niacin (B-3)",,280%,1
+602,"2455",707,"Vitamin B-6",,560%,1
+603,"2455",707,"Folate (Folic Acid)",,180%,1
+604,"2455",707,"Vitamin B-12",,400%,1
+605,"2455",707,"Pantothenic Acid",,10%,1
+606,"2455",707,"Selenium",,30%,1
+607,"2565",756,"Serving Size:","1 Capsule",,1
+608,"2565",756,"Servings Per Container:",60,,1
+609,"2565",756,"Royal Jelly (min. 6% 10-HDA) (a 3:1 freeze-dried concentrate equivalent","500 mg*"," ",1
+610,"2565",756,"to 1500 mg of fresh Royal Jelly)",," ",1
+611,"2622",596,"Serving Size:","3 Tablets",,1
+612,"2622",596,"Servings Per Container:",166,,1
+613,"2622",596,"Calories",5," ",1
+614,"2622",596,"<b>Alfalfa</b>","<b>1.95 g (1,950 mg)</b>","<b>†</b> ",1
+615,"2622",596,"Beta-Carotene (as pro-Vitamin A 18 mcg )","30 IU","<1% ",1
+616,"2622",596,"Vitamin C (as Ascorbic Acid)","4 mg",7%,1
+617,"2622",596,"Vitamin K (as Phylloquinone)","554 mcg",693%,1
+618,"2622",596,"Calcium","20 mg",2%,1
+619,"2622",596,"Iron","0.7 mg",4%,1
+620,"2622",596,"Manganese","108 mcg",5%,1
+621,"2622",596,"Potassium","42 mg",1%,1
+622,"2632",627,"Serving Size:","3 Tablets",,1
+623,"2632",627,"Servings Per Container:",40,,1
+624,"2632",627,"Calories",10," ",1
+625,"2632",627,"Protein","2 g","4%* ",1
+626,"2632",627,"<strong>Chlorella (Broken Cell Wall)</strong>","<strong>3.0 g (3,000 mg)</strong>","<strong>†</strong> ",1
+627,"2632",627,,," ",1
+628,"2632",627,"<strong>Typical Profile of naturally occurring nutrients (per serving)**</strong>",," ",1
+629,"2632",627,"Beta-Carotene (as pro-Vitamin A 1.8 mg)","3,000 IU",60%,1
+630,"2632",627,"Vitamin B-12","3 mcg",50%,1
+631,"2632",627,"Iron","3 mg",17%,1
+632,"2632",627,"Zinc","2 mg",13%,1
+633,"2632",627,"Chlorophyll","60 mg","† ",1
+634,"2632",627,"RNA","90 mg","† ",1
+635,"2632",627,"DNA","8 mg","† ",1
+636,"2632",627,"** per ingredient nutritional profile",," ",1
+637,"2675",688,"Serving Size:","1 Vcap®",,1
+638,"2675",688,"Servings Per Container:",250,,1
+639,"2675",688,"Iodine","325 mcg",217%,1
+640,"2675",688,"Kelp (<i>Laminaria digitat & Ascophyllum nodosum</i>)","250 mg","† ",1
+641,"2675",688,"Dulse (<i>Palmaria palmata</i>)","150 mg","† ",1
+642,"2707",679,"Serving Size:","9 tablets",,1
+643,"2707",679,"Servings Per Container:",10,,1
+644,"2707",679,"Calories",40," ",1
+645,"2707",679,"Calories from Fat",15," ",1
+646,"2707",679,"Total Fat","2 g",4%,1
+647,"2707",679,"Saturated Fat","0.5 g",2%,1
+648,"2707",679,"Cholesterol","0 g",0%,1
+649,"2707",679,"Sodium","25 mg",2%,1
+650,"2707",679,"Total Carbohydrate","4.0 g",2%,1
+651,"2707",679,"Dietary Fiber","1.5 g",6%,1
+652,"2707",679,"Sugars","1.5 g","† ",1
+653,"2707",679,"Protein","2.0 g",4%,1
+654,"2707",679,"Vitamin A (as Beta-Carotene)","2,450 IU",50%,1
+655,"2707",679,"Vitamin K","35mcg",45%,1
+656,"2707",679,"Vitamin B-12","3.7 mcg",60%,1
+657,"2707",679,"Calcium","125 mg",10%,1
+658,"2707",679,"Iron","2.8 mg",15%,1
+659,"2707",679,"Iodine (as Kelp)","90 mcg",60%,1
+660,"2707",679,"Magnesium","23 mg",6%,1
+661,"2707",679,"Lecithin, fine powder","2.0 g","† ",1
+662,"2707",679,"Spirulina (Hawaiian), Org.","1.0 g","† ",1
+663,"2707",679,"Alfalfa Juice Concentrate","700 mg","† ",1
+664,"2707",679,"Wheat Grass Powder, Org.","500 mg","† ",1
+665,"2707",679,"Barley Grass Powder, Org.","500 mg","† ",1
+666,"2707",679,"Carrot Powder","500 mg","† ",1
+667,"2707",679,"Barley Malt Powder","400 mg","† ",1
+668,"2707",679,"Broccoli Powder","350 mg","† ",1
+669,"2707",679,"Brown Rice Bran","350 mg","† ",1
+670,"2707",679,"Apple Fiber","350 mg","† ",1
+671,"2707",679,"Apple Pectin","300 mg","† ",1
+672,"2707",679,"Oat Bran","300 mg","† ",1
+673,"2707",679,"Chlorella Powder","300 mg","† ",1
+674,"2707",679,"Red Beet Powder","300 mg","† ",1
+675,"2707",679,"Panax Ginseng Root Powder (CA Meyer) (min. 5% Ginsenosides)","250 mg","† ",1
+676,"2707",679,"Eleuthero (Eleutherococcus senticosus) (Root)","100 mg","† ",1
+677,"2707",679,"Peppermint Powder","150 mg","† ",1
+678,"2707",679,"Green Tea Extract (Camellia sinensis) (40% catechins)","100 mg","† ",1
+679,"2707",679,"Royal Jelly Powder (min. 5% 10-H D A)","100 mg","† ",1
+680,"2707",679,"Fructooligosaccharides (NutraFlora<sup>&ampreg;</sup> FOS)","100 mg","† ",1
+681,"2707",679,"Trace Mineral Concentrate","100 mg","† ",1
+682,"2707",679,"Milk Thistle Extract (80% Silymarin)","80 mg","† ",1
+683,"2707",679,"Kelp Powder","50 mg","† ",1
+684,"2707",679,"Ginkgo Biloba Extract (24% ginkgo flavonglycosides)","20 mg","† ",1
+685,"2707",679,"Grapeseed Extract (Vitis unifera) (95% polyphenols)","20 mg","† ",1
+686,"2707",679,"Bilberry Extract (25% anthocyanidins)","20 mg","† ",1
+687,"2707",679,"Plant based enzymes","350 mg","† ",1
+688,"2707",679,"Coenzyme Q10 (CoQ10)","10 mg","† ",1
+689,"2707",679,"Alpha-Lipoic Acid","10 mg","† ",1
+690,"2707",679,"Stevia extract (leaves)","10 mg","† ",1
+691,"2708",680,"Serving Size:","9 tablets",,1
+692,"2708",680,"Servings Per Container:",30,,1
+693,"2708",680,"Calories",40," ",1
+694,"2708",680,"Calories from Fat",15," ",1
+695,"2708",680,"Total Fat","2.0 g",4%,1
+696,"2708",680,"Saturated Fat","0.5 g",2%,1
+697,"2708",680,"Cholesterol","0 g",0%,1
+698,"2708",680,"Sodium","25 mg",2%,1
+699,"2708",680,"Total Carbohydrate","4.0 g",2%,1
+700,"2708",680,"Dietary Fiber","1.5 g",6%,1
+701,"2708",680,"Sugars","1.5 g","† ",1
+702,"2708",680,"Protein","2.0 g",4%,1
+703,"2708",680,"Vitamin A (as Beta-Carotene)","2,450 IU",50%,1
+704,"2708",680,"Vitamin K","35 mcg",45%,1
+705,"2708",680,"Vitamin B-12","3.7 mcg",60%,1
+706,"2708",680,"Calcium","125 mg",10%,1
+707,"2708",680,"Iron","2.8 mg",15%,1
+708,"2708",680,"Iodine (as Kelp)","90 mcg",60%,1
+709,"2708",680,"Magnesium","23 mg",6%,1
+710,"2708",680,"Lecithin, fine powder","2.0 g","† ",1
+711,"2708",680,"Spirulina (Hawaiian), Org.","1.0 g","† ",1
+712,"2708",680,"Alfalfa Juice Concentrate","700 mg","† ",1
+713,"2708",680,"Wheat Grass Powder, Org.","500 mg","† ",1
+714,"2708",680,"Barley Grass Powder, Org.","500 mg","† ",1
+715,"2708",680,"Carrot Powder","500 mg","† ",1
+716,"2708",680,"Barley Malt Powder","400 mg","† ",1
+717,"2708",680,"Broccoli Powder","350 mg","† ",1
+718,"2708",680,"Brown Rice Bran","350 mg","† ",1
+719,"2708",680,"Apple Fiber","350 mg","† ",1
+720,"2708",680,"Apple Pectin","300 mg","† ",1
+721,"2708",680,"Oat Bran","300 mg","† ",1
+722,"2708",680,"Chlorella Powder","300 mg","† ",1
+723,"2708",680,"Red Beet Powder","300 mg","† ",1
+724,"2708",680,"Panax Ginseng Root Powder (CA Meyer) (min. 5% Ginsenosides)","250 mg","† ",1
+725,"2708",680,"Eleuthero (Eleutherococcus senticosus) (Root)","100 mg","† ",1
+726,"2708",680,"Peppermint Powder","150 mg","† ",1
+727,"2708",680,"Green Tea Extract (Camellia sinensis) (40% catechins)","100 mg","† ",1
+728,"2708",680,"Royal Jelly Powder (min. 5% 10-H D A)","100 mg","† ",1
+729,"2708",680,"Fructooligosaccharides (NutraFlora<sup>&ampreg;</sup> FOS)","100 mg","† ",1
+730,"2708",680,"Trace Mineral Concentrate","100 mg","† ",1
+731,"2708",680,"Milk Thistle Extract (80% Silymarin)","80 mg","† ",1
+732,"2708",680,"Kelp Powder","50 mg","† ",1
+733,"2708",680,"Ginkgo Biloba Extract (24% ginkgo flavonglycosides)","20 mg","† ",1
+734,"2708",680,"Grapeseed Extract (Vitis unifera) (95% polyphenols)","20 mg","† ",1
+735,"2708",680,"Bilberry Extract (25% anthocyanidins)","20 mg","† ",1
+736,"2708",680,"Plant based enzymes**","350 mg","† ",1
+737,"2708",680,"Coenzyme Q10 (CoQ10)","10 mg","† ",1
+738,"2708",680,"Alpha-Lipoic Acid","10 mg","† ",1
+739,"2708",680,"Stevia extract (leaves)","10 mg","† ",1
+740,"2708",680,"Zinc","160 mcg",2%,1
+741,"2720",790,"Serving Size:","10 Tablets",,1
+742,"2720",790,"Servings Per Container:",10,,1
+743,"2720",790,"Calories",15," ",1
+744,"2720",790,"Total Carbohydrate","2 g","<1% ",1
+745,"2720",790,"Dietary Fiber","1 g",4%,1
+746,"2720",790,"Protein","1.5 g",3%,1
+747,"2720",790,"<b>Organic Wheat Grass</b>","<b>5.0 g (5,000 mg)</b>","<b>†</b> ",1
+748,"2720",790,"Beta-Carotene (as pro-Vitamin A 1.4 mg)","2385 IU",48%,1
+749,"2720",790,"Vitamin C","15 mg",25%,1
+750,"2720",790,"Vitamin K","22 mcg",28%,1
+751,"2720",790,"Riboflavin (Vitamin B-2)","97 mcg",6%,1
+752,"2720",790,"Calcium","25 mg",3%,1
+753,"2720",790,"Iron","3 mg",17%,1
+754,"2720",790,"Potassium","150 mg",4%,1
+755,"2720",790,"Chlorophyll","25 mg","† ",1
+756,"2810",650,"Serving Size:","1 Level Teaspoon (2.0 g)",,1
+757,"2810",650,"Servings Per Container:",42,,1
+758,"2810",650,"Calories",8," ",1
+759,"2810",650,"Total Carbohydrate","2 g","<1% ",1
+760,"2810",650,"Sugars","2 g","† ",1
+761,"2810",650,"<b>D-Mannose</b>","<b>2.0 g (2,000 mg)</b>","<b>†</b> ",1
+762,"2811",649,"Serving Size:","3 Capsules",,1
+763,"2811",649,"Servings Per Container:",40,,1
+764,"2811",649,"Calories",6," ",1
+765,"2811",649,"Total Carbohydrate","1.5 g","<1% ",1
+766,"2811",649,"Sugars","1.5 g","† ",1
+767,"2811",649,"<b>D-Mannose</b>","<b>1.5 g (1,500 mg)</b>","<b>†</b> ",1
+768,"2926",742,"Serving Size:","1 Vcap®",,1
+769,"2926",742,"Servings Per Container:",50,,1
+770,"2926",742,"<strong>Proprietary Blend of 10 Strains of Probiotic Bacteria:</strong><br /> Lactobacillus acidophilus, Bifidobacterium bifidum, Lactobacillus plantarum, Lactobacillus salivarious, Lactobacillus casei, Lactobacillus paracasei, Lactobacillus rhamnosus, Bifidobacterium breve, Bifidobacterium longum, Streptococcus thermophilus","<strong>25 Billion Organisms*</strong>"," ",1
+771,"2930",591,"Serving Size:","1 Vcap&ampreg;",,1
+772,"2930",591,"Servings Per Container:",60,,1
+773,"2930",591,"Stability tested to guarantee the following minimum potencies<br />through expiration date.",," ",1
+774,"2930",591,"<i>Lactobacillus acidophilus</i>","4.0&ampnbsp;&ampnbsp;billion","50%* ",1
+775,"2930",591,"<i>Bifidobacterium lactis</i>","3.2&ampnbsp;&ampnbsp;billion","40%* ",1
+776,"2930",591,"<i>Bifidobacterium longum</i>","0.8&ampnbsp;&ampnbsp;billion","10%* ",1
+777,"2930",591,"Total Minimum Microorganisms","8.0&ampnbsp;&ampnbsp;Billion","100%* ",1
+778,"2932",590,"Serving Size:","1 Vcap&ampreg;",,1
+779,"2932",590,"Servings Per Container:",120,,1
+780,"2932",590,"Stability tested to guarantee the following minimum potencies<br />through expiration date.",," ",1
+781,"2932",590,"<i>Lactobacillus acidophilus</i>","4.0 billion","50%* ",1
+782,"2932",590,"<i>Bifidobacterium lactis</i>","3.2 billion","40%* ",1
+783,"2932",590,"<i>Bifidobacterium longum</i>","0.8 billion","10%* ",1
+784,"2932",590,"Total Minimum Microorganisms","8.0 billion","100%* ",1
+785,"2943",621,"Serving Size:","1 Vcap&ampreg;",,1
+786,"2943",621,"Servings Per Container:",60,,1
+787,"2943",621,"Bromelain (2400 GDU/g)†","500 mg","* ",1
+788,"2945",736,"Serving Size:","1 Capsule",,1
+789,"2945",736,"Servings Per Container:",100,,1
+790,"2945",736,"4X Pancreatin","500 mg","* ",1
+791,"2945",736,"Equivalent to 2000 mg Pancreatin typically supplying:",," ",1
+792,"2945",736,"Amylase","50,000 USP units"," ",1
+793,"2945",736,"Protease (Trypsin and Chymotrypsin)","50,000 USP units"," ",1
+794,"2945",736,"Lipase","9,000 USP units"," ",1
+795,"2960",776,"Serving Size:","1 Tablet",,1
+796,"2960",776,"Servings Per Container:",90,,1
+797,"2960",776,"Betaine HCl","200 mg","* ",1
+798,"2960",776,"Pancreatin 4X Supplying:","200 mg","* ",1
+799,"2960",776,"Amylase","20,000 USP units","* ",1
+800,"2960",776,"Protease","20,000 USP units","* ",1
+801,"2960",776,"Lipase","3,400 USP units","* ",1
+802,"2960",776,"Papain (2M USP units/mg)","50 mg","* ",1
+803,"2960",776,"Cellulase (1M FCC units/g)","10 mg","* ",1
+804,"2960",776,"Ox Bile Extract (45% Cholic Acid)","100 mg","* ",1
+805,"2960",776,"Pepsin Enzymes (NF 1:10M units)","50 mg","* ",1
+806,"2960",776,"Bromelain (2400 GDU)&ampnbsp;&ampnbsp;(from Pineapple)","50 mg","* ",1
+807,"2960",776,"Papaya Powder","45 mg","* ",1
+808,"2962",777,"Serving Size:","1 Tablet",,1
+809,"2962",777,"Servings Per Container:",180,,1
+810,"2962",777,"Betaine HCl","200 mg","* ",1
+811,"2962",777,"Pancreatin 4X Supplying:","200 mg","* ",1
+812,"2962",777,"Amylase","20,000 USP units","* ",1
+813,"2962",777,"Protease","20,000 USP units","* ",1
+814,"2962",777,"Lipase","3,400 USP units","* ",1
+815,"2962",777,"Papain (2M USP units/mg)","50 mg","* ",1
+816,"2962",777,"Cellulase (1M FCC units/g)","10 mg","* ",1
+817,"2962",777,"Ox Bile Extract (45% Cholic Acid)","100 mg","* ",1
+818,"2962",777,"Pepsin Enzymes (NF 1:10M units)","50 mg","* ",1
+819,"2962",777,"Bromelain (2,400 GDU) (from Pineapple)","50 mg","* ",1
+820,"2962",777,"Papaya Powder","45 mg","* ",1
+821,"2980",594,"Serving Size:","1 Lozenge",,1
+822,"2980",594,"Servings Per Container:",90,,1
+823,"2980",594,"Calories",5," ",1
+824,"2980",594,"Total Carbohydrate","1.3 g","&#60;1%* ",1
+825,"2980",594,"Sugars","1.1 g","† ",1
+826,"2980",594,"Vitamin C (as Ascorbic Acid)","12 mg",20%,1
+827,"2980",594,"Vitamin D3 (as Cholecalciferol)","150 IU",38%,1
+828,"2980",594,"Calcium (from Calcium Carbonate)","116 mg",12%,1
+829,"2980",594,"Magnesium (from Magnesium Hydroxide)","11 mg",3%,1
+830,"2980",594,"Potassium (from Potassium Hydroxide)","4 mg","<1% ",1
+831,"2980",594,"<strong>Acid Comfort</strong><strong>™</strong><strong> (Innovative Buffering Blend with Calcium Carbonate, Magnesium Hydroxide and Potassium Hydroxide)</strong>","<strong>373 mg</strong>","<strong>†</strong> ",1
+832,"2980",594,"Certified Organic Stevia Extract (<em>Stevia rebaudiana</em>) (Leaf)","10 mg","† ",1
+833,"3030",598,"Serving Size:","1/8 Teaspoon (0.5 mL)",,1
+834,"3030",598,"Servings Per Container:",236,,1
+835,"3030",598,"<strong>Calories</strong>","&#60; 5"," ",1
+836,"3030",598,"Calories from Fat",0," ",1
+837,"3030",598,"<strong>Total Carbohydrate</strong>","&#60;0.5 g","&#60;1% ",1
+838,"3030",598,"Not a significant source of total fat, saturated fat, trans fat, cholesterol, sodium, dietary fiber, protein, vitamin A, vitamin C, calcium or iron.",," ",1
+839,"3036",597,"Serving Size:","3 Softgels",,1
+840,"3036",597,"Servings Per Container:",33,,1
+841,"3036",597,"Calories",20," ",1
+842,"3036",597,"Calories from Fat",15," ",1
+843,"3036",597,"Total Fat","1.5 g",2%,1
+844,"3036",597,"Trans Fat","0 g"," ",1
+845,"3036",597,"Protein","<1 g",1%,1
+846,"3036",597,"<b>Aloe Vera Extract (200:1 Concentrate)**</b>","<b>75 mg</b>"," ",1
+847,"3040",601,"Serving Size:","1 Vcap®",,1
+848,"3040",601,"Servings Per Container:",60,,1
+849,"3040",601,"Vitamin C (as Ascorbic Acid)","250 mg",420%,1
+850,"3040",601,"Vitamin E (as d-alpha Tocopheryl Succinate)","30 IU",100%,1
+851,"3040",601,"Alpha Lipoic Acid","100 mg","† ",1
+852,"3041",600,"Serving Size:","1 Vcap®",,1
+853,"3041",600,"Servings Per Container:",120,,1
+854,"3041",600,"Vitamin C (as Ascorbic Acid)","250 mg",420%,1
+855,"3041",600,"Vitamin E (as d-alpha Tocopheryl Succinate)","30 IU",100%,1
+856,"3041",600,"<b>Alpha Lipoic Acid</b>","<b>100 mg</b>","<b>†</b> ",1
+857,"3046",599,"Serving Size:","1 Vcap®",,1
+858,"3046",599,"Servings Per Container:",60,,1
+859,"3046",599,"<b>Alpha Lipoic Acid</b>","<b>600 mg</b>","<b>†</b> ",1
+860,"3046",599,"Grape Seed (<i>Vitis vinifera</i>)","30 mg","† ",1
+861,"3046",599,"Standardized Extract (min. 90% Polyphenols)",," ",1
+862,"3046",599,"Bioperine®","5 mg","† ",1
+863,"3054",614,"Serving Size:","1 Vcap®",,1
+864,"3054",614,"Servings Per Container:",90,,1
+865,"3054",614,"Beta - 1,3/1,6 -D- Glucan Powder (from <em>Saccharomyces cerevisiae</em>)","100 mg","* ",1
+866,"3054",614,"Maitake Mushrooms (<em>Grifola frondosa</em>)","160 mg","* ",1
+867,"3065",615,"Serving Size:","2 Vcaps&ampreg;",,1
+868,"3065",615,"Servings Per Container:",50,,1
+869,"3065",615,"CardioAid® Plant Sterols<br /> Typically contains: &#160;Beta-Sitosterol 392 mg, Campesterol 200 mg, and Stigmasterol 144 mg","800 mg*"," ",1
+870,"3066",618,"Serving Size:","1 Vcap®",,1
+871,"3066",618,"Servings Per Container:",90,,1
+872,"3066",618,"<b>MegaNatural®-BP™ (Grape Seed Extract)</b>","<b>150 mg*</b>"," ",1
+873,"3066",618,"<b>(<i>Vitis vinifera</i>) (Standardized to min. 90% Polyphenols)</b>",," ",1
+874,"3066",618,"Hawthorn Extract (Leaf & Flower)","300 mg*"," ",1
+875,"3066",618,"(<i>Crataegus laevigata</i>) (Standardized to min. 1.8% Vitexin)",," ",1
+876,"3070",750,"Serving Size:","2 Vcaps®",,1
+877,"3070",750,"Servings Per Container:",60,,1
+878,"3070",750,"Quercetin (as Quercetin Dihydrate)","800 mg*"," ",1
+879,"3070",750,"Bromelain (2,000 GDU)","200 mg*"," ",1
+880,"3121",647,"Serving Size:","2 Vcaps&ampreg;",,1
+881,"3121",647,"Servings Per Container:",45,,1
+882,"3121",647,"Holy Basil Extract (<em>Ocimum sanctum</em>) (Leaf)","250 mg"," ",1
+883,"3121",647,"(Standardized to min. 2% Ursolic Acid)",,"* ",1
+884,"3121",647,"Ursolic Acid (from Holy Basil Extract)","5 mg","* ",1
+885,"3121",647,"Tumeric Extract (<em>Curcuma longa</em>) (Rhizome) (min. 95% Total Curcuminoids)","100 mg","* ",1
+886,"3121",647,"Ginger Extract (<em>Zingiber officinale</em>) (Rhizome) (min. 5% Gingerols)","100 mg","* ",1
+887,"3121",647,"Green Tea Extract (<em>Camelia sinensis</em>) (Leaf) (min. 60% Polyphenols)","100 mg","* ",1
+888,"3121",647,"Boswellin® (Gum Resin Extract from <i>Boswellia serrata</i>)","100 mg","* ",1
+889,"3121",647,"Bromelain (2,400 GDU/g)","100 mg","* ",1
+890,"3121",647,"Baikal Skullcap (<i>Scutellaria baicalensis</i>) (Root) (4:1 Concentrate)","50 mg","* ",1
+891,"3121",647,"Resveratrol (from <i>Polygonum cusipidatum</i> Root Extract)","10 mg","* ",1
+892,"3121",647,"Berberine (as Berberine HCl) (from Tree Tumeric (<em>Berberis aristata</em>",," ",1
+893,"3121",647,"Root Extract","5 mg","* ",1
+894,"3140",703,"Serving Size:","1 Vcap®",,1
+895,"3140",703,"Servings Per Container:",60,,1
+896,"3140",703,"Nattokinase (enzyme from Natto Extract)<br /> (providing 2,000 FU's of enzyme activity - an assay<br /> equivalent to 160 IU Urokinase assay) (non-gmo soy derived)","100 mg","* ",1
+897,"3156",687,"Serving Size:","2 Vcaps®",,1
+898,"3156",687,"Servings Per Container:",30,,1
+899,"3156",687,"Sodium (from Sodium Hyaluronate)","9 mg","<1% ",1
+900,"3156",687,"Hyaluronic Acid (from Sodium Hyaluronate)","100 mg","† ",1
+901,"3156",687,"MSM (Methylsulphonylmethane)","900 mg","† ",1
+902,"3170",666,"Serving Size:","3 Capsules",,1
+903,"3170",666,"Servings Per Container:",30,,1
+904,"3170",666,"Calories",10," ",1
+905,"3170",666,"Total Carbohydrate","2 g","<1% ",1
+906,"3170",666,"Sodium","110 mg",5%,1
+907,"3170",666,"Potassium (from Potassium Chloride)","245 mg",7%,1
+908,"3170",666,"<strong>Glucosamine Sulfate</strong><br /> <strong>(from 1500 mg Glucosamine Potassium Sulfate Complex)</strong>","<strong>1.1 g (1,100 mg)</strong>","<strong>†</strong> ",1
+909,"3170",666,"<strong>Chondroitin Sodium Sulfate (from Bovine Cartilage)</strong>","<strong>1.2 g (1,200 mg)</strong>","<strong>†</strong> ",1
+910,"3170",666,"<strong>MSM (Methylsuiphonylmethane)</strong>","<strong>300 mg</strong>","<strong>†</strong> ",1
+911,"3172",667,"Serving Size:","3 Capsules",,1
+912,"3172",667,"Servings Per Container:",60,,1
+913,"3172",667,"Calories",10," ",1
+914,"3172",667,"Total Carbohydrate","2 g","<1% ",1
+915,"3172",667,"Sodium","110 mg",5%,1
+916,"3172",667,"Potassium (from Potassium Chloride)","245 mg",7%,1
+917,"3172",667,"<b>Glucosamine Sulfate</b>","<b>1.1 g (1,100 mg)</b>","<b>†</b> ",1
+918,"3172",667,"<b>(from 1500 mg Glucosamine Potassium Sulfate Complex)</b>",," ",1
+919,"3172",667,"<b>Chondroitin Sodium Sulfate (from Bovine Cartilage)</b>","<b>1.2 g (1,200 mg)</b>","<b>†</b> ",1
+920,"3172",667,"<b>MSM (Methylsulphonylmethane)</b>","<b>300 mg</b>","<b>†</b> ",1
+921,"3175",691,"Serving Size:","1 Tablespoon (15 mL)",,1
+922,"3175",691,"Servings Per Container:",31,,1
+923,"3175",691,"Calories",15," ",1
+924,"3175",691,"Vitamin C (as Ascorbic Acid)","125 mg",208%,1
+925,"3175",691,"Manganese (from Manganese AAC*)","4 mg",200%,1
+926,"3175",691,"Sodium","60 mg",3%,1
+927,"3175",691,"Potassium","5 mg","&#60;1% ",1
+928,"3175",691,"Glucosamine HCl","750 mg","† ",1
+929,"3175",691,"Chondroitin Sodium Sulfate (from Bovine Carilage)","600 mg","† ",1
+930,"3175",691,"MSM  (Methylsulphonylmethane)","150 mg","† ",1
+931,"3176",638,"Serving Size:","1 Vcap&ampreg;",,1
+932,"3176",638,"Servings Per Container:",60,,1
+933,"3176",638,"<b>Coenzyme Q10 (CoQ10)</b>","<b>200 mg*</b>"," ",1
+934,"3188",639,"Serving Size:","1 Vcap&ampreg;",,1
+935,"3188",639,"Servings Per Container:",120,,1
+936,"3188",639,"Coenzyme Q10 (CoQ10)","30 mg*"," ",1
+937,"3193",640,"Serving Size:","1 Softgel",,1
+938,"3193",640,"Servings Per Container:",100,,1
+939,"3193",640,"Vitamin E (as d-alpha Tocopheryl Acetate)","30 IU",100%,1
+940,"3193",640,"Selenium (from L-Selenomethionine)","70 mcg",100%,1
+941,"3193",640,"<b>Coenzyme Q10 (CoQ10)</b>","<b>50 mg</b>","<b>†</b> ",1
+942,"3198",635,"Serving Size:","1 Softgel",,1
+943,"3198",635,"Servings Per Container:",60,,1
+944,"3198",635,"Calories",7," ",1
+945,"3198",635,"Serving Size","1 Softgel"," ",1
+946,"3198",635,"Calories from Fat",5," ",1
+947,"3198",635,"Total Fat","0.5 g",1%,1
+948,"3198",635,"Trans Fat","0 g"," ",1
+949,"3198",635,"Vitamin E (as d-alpha Tocopherol)","30 IU",100%,1
+950,"3198",635,"<b>Coenzyme Q10 (CoQ10)</b>","<b>400 mg</b>"," ",1
+951,"3198",635,"Soy Lecithin","35 mg"," ",1
+952,"3208",636,"Serving Size:","1 Softgel",,1
+953,"3208",636,"Servings Per Container:",50,,1
+954,"3208",636,"Vitamin E (from Mixed Tocopherols)","30 IU",100%,1
+955,"3208",636,"<b>Coenzyme Q10 (CoQ10)</b>","<b>100 mg</b>","<b>†</b> ",1
+956,"3209",637,"Serving Size:","1 Softgel",,1
+957,"3209",637,"Servings Per Container:",150,,1
+958,"3209",637,"Vitamin E (from Mixed Tocopherols)","30 IU",100%,1
+959,"3209",637,"<b>Coenzyme Q10 (CoQ10)</b>","<b>100 mg</b>"," ",1
+960,"3223",665,"Serving Size:","2 Tablets",,1
+961,"3223",665,"Servings Per Container:",50,,1
+962,"3223",665,"Potassium (from Potassium Chloride)","360 mg",10%,1
+963,"3223",665,"<b>Glucosamine Sulfate (from 3,000 mg Glucosamine Potassium</b>","<b>2.2 g (2,200 mg)</b>","<b>†</b> ",1
+964,"3223",665,"<b>Sulfate Complex)</b>",," ",1
+965,"3237",671,"Serving Size:","2 Capsules",,1
+966,"3237",671,"Servings Per Container:",30,,1
+967,"3237",671,"Calories",6," ",1
+968,"3237",671,"Total Carbohydrates","1 g","<1% ",1
+969,"3237",671,"<b>Glucosamine Hydrochloride</b>","<b>2 g (2,000 mg)</b>","<b>†</b> ",1
+970,"3239",673,"Serving Size:","2 Capsules",,1
+971,"3239",673,"Servings Per Container:",90,,1
+972,"3239",673,"Calories",6," ",1
+973,"3239",673,"Serving Size","2 Capsules"," ",1
+974,"3239",673,"Total Carbohydrate","1 g","<1% ",1
+975,"3239",673,"Servings Per Container",90," ",1
+976,"3239",673,"<b>Glucosamine Hydrochloride</b>","<b>2.0 g (2,000 mg)</b>"," ",1
+977,"3243",668,"Serving Size:","2 Tablets",,1
+978,"3243",668,"Servings Per Container:",60,,1
+979,"3243",668,"Calories",10," ",1
+980,"3243",668,"Total Carbohydrate","2 g","<1%* ",1
+981,"3243",668,"Sodium","110 mg",5%,1
+982,"3243",668,"Potassium (from Potassium Chloride)","245 mg",7%,1
+983,"3243",668,"<b>Glucosamine Sulfate (from Glucosamine Potassium Sulfate Complex)</b>","<b>1.5 g (1,500 mg)</b>","<b>†</b> ",1
+984,"3243",668,"<b>Chondroitin Sodium Sulfate (from Bovine Cartilage)</b>","<b>1.2 g (1,200 mg)</b>","<b>†</b> ",1
+985,"3262",702,"Serving Size:","1 Tablet",,1
+986,"3262",702,"Servings Per Container:",100,,1
+987,"3262",702,"Niacin (as Niacinamide)","100 mg",500%,1
+988,"3262",702,"Vitamin B-6 (as Pyridoxine HCl)","5 mg",250%,1
+989,"3262",702,"Magnesium (from Magnesium Citrate)","40 mg",10%,1
+990,"3262",702,"<b>Melatonin</b>","<b>1 mg</b>","<b>†</b> ",1
+991,"3270",765,"Serving Size:","6 Capsules",,1
+992,"3270",765,"Servings Per Container:",16,,1
+993,"3270",765,"Calories",10," ",1
+994,"3270",765,"Total Carbohydrate","0.9 g","<1% ",1
+995,"3270",765,"Sodium","40 mg",2%,1
+996,"3270",765,"Protein","2 g",4%,1
+997,"3270",765,"Calcium","810 mg",81%,1
+998,"3270",765,"Phosphorous","405 mg",41%,1
+999,"3270",765,"<b>Shark Cartilage</b>","<b>4.5 g</b>","<b>†</b> ",1
+1000,"3270",765,"Mucopolysaccharides","720 mg","† ",1
+1001,"3278",670,"Serving Size:","2 Capsules",,1
+1002,"3278",670,"Servings Per Container:",30,,1
+1003,"3278",670,"Glucosamine Sulfate","1.1 g (1,100 mg)","† ",1
+1004,"3278",670,"(from 1,500 mg Glucosamine Potassium Sulfate Complex)",," ",1
+1005,"3278",670,"MSM (Methylsulphonylmethane)","500 mg","† ",1
+1006,"3278",670,"Potassium (from Potassium Chloride)","245 mg",6%,1
+1007,"3278",670,"Chondroitin Sodium Sulfate (from Bovine Cartilage)","50 mg","† ",1
+1008,"3279",669,"Serving Size:","2 Capsules",,1
+1009,"3279",669,"Servings Per Container:",90,,1
+1010,"3279",669,"Glucosamine Sulfate (from 1500mg Glucosamine Potassium Sulfate Complex)","1.1 g (1,100 mg)","† ",1
+1011,"3279",669,"MSM (Methylsulphonylmethane)","500 mg","† ",1
+1012,"3279",669,"Potassium (as Potassium Chloride)","245 mg",6%,1
+1013,"3279",669,"Chondroitin Sodium Sulfate (from Bovine Cartilage)","50 mg","† ",1
+1014,"3282",754,"Serving Size:","3 Tablets",,1
+1015,"3282",754,"Servings Per Container:",20,,1
+1016,"3282",754,"Vitamin C (as Magnesium Ascorbate)","500 mg",830%,1
+1017,"3282",754,"Vitamin B-6 (as Pyridoxine HCl)","20 mg",1000%,1
+1018,"3282",754,"Pantothenic Acid","100 mg",1000%,1
+1019,"3282",754,"Magnesium (as Magnesium Ascorbate)","40 mg",10%,1
+1020,"3282",754,"Zinc (as L-OptiZinc<sup>TM</sup> Monomethionine)","10 mg",70%,1
+1021,"3282",754,"Quercetin","800 mg","† ",1
+1022,"3282",754,"Nettle Extract (Urtica dioica) (root) (standardized 30ppm scopoletin)","500 mg","† ",1
+1023,"3282",754,"Bromelain (2000 GDU)","500 mg","† ",1
+1024,"3282",754,"Licorice Extract (Glycyrrhiza glabra)(root) (4:1 extract)","200 mg","† ",1
+1025,"3283",672,"Serving Size:",,,1
+1026,"3283",672,"Servings Per Container:",,,1
+1027,"3301",713,"Serving Size:","3 Capsules",,1
+1028,"3301",713,"Servings Per Container:",30,,1
+1029,"3301",713,"Beta-Carotene (Betatene®) (as pro-Vitamin A 6 mg)","10,000 IU",200%,1
+1030,"3301",713,"Vitamin C (as Ascorbic Acid)","250 mg",417%,1
+1031,"3301",713,"Vitamin E (from d-alpha Tocopheryl Succinate)","100 IU",333%,1
+1032,"3301",713,"Riboflavin (Vitamin B-2)","15 mg",882%,1
+1033,"3301",713,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1034,"3301",713,"Vitamin B-12 (as Methylcobalamin)","100 mcg",1667%,1
+1035,"3301",713,"Zinc (from L-OptiZinc® Zinc-L-Methionine)","7.5 mg",50%,1
+1036,"3301",713,"Selenium (from SelenoPure™ L-Selenomethionine) (Yeast-Free)","50 mcg",71%,1
+1037,"3301",713,"Chromium (from ChromeMate® Chromium Polynicotinate)","50 mcg",42%,1
+1038,"3301",713,"Citrus Bioflavonoids (min. 37% total bioflavonoids as&ampnbsp;Hesperidin)","100 mg","† ",1
+1039,"3301",713,"Rutin","100 mg","† ",1
+1040,"3301",713,"Eyebright (<em>Euphrasia stricta</em>) (Aerials)","100 mg","† ",1
+1041,"3301",713,"Green Tea (<em>Camelia sinensis</em>) Extract (Leaf) (min. 60% Polyphenols) (Contains 2 mg of naturally occurring caffeine)","50 mg","† ",1
+1042,"3301",713,"Taurine","50 mg","† ",1
+1043,"3301",713,"N-Acetyl Cysteine (NAC)","50 mg","† ",1
+1044,"3301",713,"Bilberry (<em>Vaccinium myrtillus</em>) Extract (Fruit) (min. 25% Total Anthocyanosides)","40 mg","† ",1
+1045,"3301",713,"Alpha Lipoic Acid","25 mg","† ",1
+1046,"3301",713,"Grape Seed Extract (<em>Vitis vinifera</em>) (min. 90% Total Polyphenols)","25 mg","† ",1
+1047,"3301",713,"<em>Ginkgo biloba</em> Extract (Leaf) (min. 24% Ginkgoflavonglycosides &#38; min. 6% Terpene Lactones","20 mg","† ",1
+1048,"3301",713,"CoQ10 (as Ubidecarenone)","10 mg","† ",1
+1049,"3301",713,"Lutein (Free-Form) (from 200 mg FloraGLO® Marigold Flowers Extract)","10 mg","† ",1
+1050,"3301",713,"Zeaxanthin (from 200 mg FloraGLO® Marigold Flowers Extract)","500 mcg","† ",1
+1051,"3301",713,"L-Glutathione (Reduced-Form)","2.5 mg","† ",1
+1052,"3305",684,"Serving Size:","1 Vcap®",,1
+1053,"3305",684,"Servings Per Container:",60,,1
+1054,"3305",684,"Vitamin B6 (as coenzyme pyridoxal-5-phosphate (P-5-P)","20 mg",1000%,1
+1055,"3305",684,"Vitamin B12 (as Cyanocobalamin)","250 mcg",4170%,1
+1056,"3305",684,"Folic Acid","800 mcg",200%,1
+1057,"3305",684,"Trimethylglycine (Betaine)","400 mg","* ",1
+1058,"3307",648,"Serving Size:","2 Vcaps&ampreg;",,1
+1059,"3307",648,"Servings Per Container:",60,,1
+1060,"3307",648,"Calories",5," ",1
+1061,"3307",648,"Total Carbohydrate","1 g","&#60;1%* ",1
+1062,"3307",648,"Sodium","7 mg","<1% ",1
+1063,"3307",648,"Niacin (as Niacinamide) (Vitamin B-3)","10 mg",50%,1
+1064,"3307",648,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1065,"3307",648,"Pantothenic Acid (frm Calcium d-Pantothenate)","10 mg",100%,1
+1066,"3307",648,"Iodine (from Kelp)","150 mcg",100%,1
+1067,"3307",648,"Chromium (from Amino Acid Chelate) (Chelavite®)","200 mcg",167%,1
+1068,"3307",648,"<strong>ForsLean&ampreg; (Extract of&ampnbsp;<em>Coleus forskohlii</em> (Root)<br />(min 10% Forskolin)</strong>","<strong>125 mg</strong>","<strong>&ampdagger;</strong> ",1
+1069,"3307",648,"<strong>L-Carnitine (Carnipure</strong><strong>™</strong><strong> )(from L-Carnitine Tartrate)</strong>","<strong>250 mg</strong>","<strong>†</strong> ",1
+1070,"3307",648,"Super Citrimax® (<em>Garcinia cambogia</em>)<br /> Extract containing 225 mg (-) Hydroxycitric Acid)","375 mg","† ",1
+1071,"3307",648,"Green Tea Extract (<em>Camellia sinenis</em>) (Leaf)<br /> (60% Polyphenols, 40% Catechins) (Contains 8 mg of naturally occurring Caffeine)","200 mg","† ",1
+1072,"3307",648,"Uva Ursi Leaf (<i>Uvae usri folium</i>) (4:1 Extract)","50 mg","† ",1
+1073,"3317",603,"Serving Size:","2 Capsules",,1
+1074,"3317",603,"Servings Per Container:",90,,1
+1075,"3317",603,"Apple Cider Vinegar Powder","900 mg","† ",1
+1076,"3319",624,"Serving Size:","2 Vcaps®",,1
+1077,"3319",624,"Servings Per Container:",90,,1
+1078,"3319",624,"Calories",10," ",1
+1079,"3319",624,"Calories from Fat",5," ",1
+1080,"3319",624,"Total Fat","0.5 g","<1% ",1
+1081,"3319",624,"Saturated Fat","0.5 g",2%,1
+1082,"3319",624,"Total Carbohydrate","1 g","<1% ",1
+1083,"3319",624,"Biotin","2 mg (2,000 mcg)",670%,1
+1084,"3319",624,"Magnesium (from Magnesium Caprylate)","45 mg",10%,1
+1085,"3319",624,"Caprylic Acid (from Magnesium Caprylate)","500 mg","† ",1
+1086,"3319",624,"Pau D'Arco (<i>Tabebuia impetiginosa</i>) (Bark)","300 mg","† ",1
+1087,"3319",624,"Black Walnut (<i>Juglans nigra L.</i>) (Hull)","300 mg","† ",1
+1088,"3319",624,"Oregano Oil (<i>Origanum vulgare</i>) (min. 1.75% Volatiles)","200 mg","† ",1
+1089,"3321",751,"Serving Size:","2 Vcaps&ampreg;",,1
+1090,"3321",751,"Servings Per Container:",30,,1
+1091,"3321",751,"Organic Red Yeast Rice (<em>Monascus purpureus</em>)","1.2 g (1,200 mg)","* ",1
+1092,"3321",751,"Milk Thistle (<em>Silybum marianum</em>)<br /> Standardized Extract (min. 80% Silymarin)","210 mg","* ",1
+1093,"3321",751,"Alpha Lipoic Acid","100 mg","* ",1
+1094,"3321",751,"CoQ10 (Coenzyme Q10) (as Ubiquinone)","60 mg","* ",1
+1095,"3323",783,"Serving Size:","2 Vcaps®",,1
+1096,"3323",783,"Servings Per Container:",30,,1
+1097,"3323",783,"Niacin (as Nicotinic Acid)","1.1 mg",6%,1
+1098,"3323",783,"Chromium (ChromeMate®) (from Chromium Polynicotinate)","200 mcg",167%,1
+1099,"3323",783,"<b>Hoodia (<i>Hoodia gordonii</i>) (Aerial Parts)</b>","<b>300 mg</b>","<b>†</b> ",1
+1100,"3323",783,"<b>(Equivalent to 6,000 mg of Whole Plant)</b>",," ",1
+1101,"3323",783,"Cocoa Extract (<i>Theobroma cacao</i>) (Seed)","400 mg","† ",1
+1102,"3323",783,"(min. 7% Theobromine) (Contains 4 mg of Caffeine)",," ",1
+1103,"3323",783,"Green Tea Extract (<i>Camellia sinensis</i>) (Leaf)","200 mg","† ",1
+1104,"3323",783,"(min. 40% Catechins and 60% Polyphenols) (Contains 8 mg of Caffeine)",," ",1
+1105,"3327",608,"Serving Size:","1 Capful (1 fl. oz. or 30 mL)",,1
+1106,"3327",608,"Servings Per Container:",31,,1
+1107,"3327",608,"Calories",40," ",1
+1108,"3327",608,"Total Carbohydrate","8 g","3%* ",1
+1109,"3327",608,"Dietary Fiber","0.2 g","<1% ",1
+1110,"3327",608,"Sugars","2 g","† ",1
+1111,"3327",608,"Protein","2 g",4%,1
+1112,"3327",608,"Beta-Carotene (as pro-Vitamin A 348 mcg)","580 IU",10%,1
+1113,"3327",608,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1114,"3327",608,"Calcium","104 mg",10%,1
+1115,"3327",608,"Sodium","61 mg",2%,1
+1116,"3327",608,"Chromium (from Chromium Chelavite&#174;)","50 mcg",40%,1
+1117,"3327",608,"Potassium","178 mg",6%,1
+1118,"3327",608,"<strong>Awe-Slim™ Proprietary Blend<br style="" font-weight: bold;"" /> Aloe Vera Juice<br style="" font-weight: bold;"" /> Hydrolyzed Collagen<br style="" font-weight: bold;"" /> Apple Cider Vinegar<br style="" font-weight: bold;"" /> CLA (Conjugated Linoleic Acid)</strong>","<strong>12.9 g (12.6 mL)</strong>","<strong>†</strong> ",1
+1119,"3327",608,"Super CitriMax® (<em>Garcinia cambogia</em> Extract)<br /> (min. 60% total HCA) (Fruit)","750 mg","† ",1
+1120,"3327",608,"L-Carnitine (L-Carnipure™)","750 mg","† ",1
+1121,"3327",608,"L-Arginine","500 mg","† ",1
+1122,"3327",608,"L-Lysine (from L-Lysine HCl)","500 mg","† ",1
+1123,"3327",608,"L-Ornithine (from L-Ornithine HCl)","500 mg","† ",1
+1124,"3327",608,"<em>Stevia rebaudiana</em> Extract (Leaf)<br /> (min. 80% Rebaudioside A)","25 mg","† ",1
+1125,"3331",658,"Serving Size:","2 Capsules",,1
+1126,"3331",658,"Servings Per Container:",45,,1
+1127,"3331",658,"Vitamin E (as d-alpha Tocopheryl Succinate)","15 IU",50%,1
+1128,"3331",658,"Vitamin B-1 (from Thiamine HCl)","10 mg",670%,1
+1129,"3331",658,"Riboflavin (Vitamin B-2)","10 mg",590%,1
+1130,"3331",658,"Niacin (Vitamin B-3)","25 mg",130%,1
+1131,"3331",658,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1132,"3331",658,"Vitamin B-12 (as Cyanocobalamin)","100 mcg",1670%,1
+1133,"3331",658,"Vitamin B-5 (from Calcium d-Pantothenate)","10 mg",100%,1
+1134,"3331",658,"Iodine (from Kelp)","150 mcg",100%,1
+1135,"3331",658,"Chromium (as Chromium Chelavite®)","200 mcg",170%,1
+1136,"3331",658,"Potassium (from Potassium Aspartate)","55 mg",2%,1
+1137,"3331",658,"Guarana Standardized Extract (<em>Paullinia cupana</em>) (Seed)<br /> (Contains 42 mg of Caffeine)","280 mg","† ",1
+1138,"3331",658,"Green Tea Extract (<em>Camellia sinensis</em>) (Leaf)<br /> (Contains 8 mg of Caffeine)","200 mg","† ",1
+1139,"3331",658,"Panax Ginseng (5% Ginsenosides) (Root)","150 mg","† ",1
+1140,"3331",658,"Eleuthero (<em>Eleutherococcus senticosus</em>) (Root)","150 mg","† ",1
+1141,"3331",658,"Rhodiola Extract (<em>Rhodiola rosea</em>) (Root)","100 mg","† ",1
+1142,"3331",658,"Licorice (<em>Glycyrrhiza glabra</em>) (Root)","100 mg","† ",1
+1143,"3331",658,"Gotu Kola (<em>Centella asiatica</em>) (Whole Plant) &#160;","100 mg","† ",1
+1144,"3331",658,"Yerba Mate Extract (<em>llex paraguanensis</em>) (Leaf)<br /> (Contains 4 mg of Caffeine)","50 mg","† ",1
+1145,"3331",658,"Cayenne (<em>Capsicum annuum</em>) (40,000 SHU) (Fruit)","50 mg","† ",1
+1146,"3331",658,"Alpha Lipoic Acid","25 mg","† ",1
+1147,"3331",658,"CoQ10","10 mg","† ",1
+1148,"3331",658,"Octacosanol (from Spinach)","30 mcg","† ",1
+1149,"3333",701,"Serving Size:","2 Vcaps®",,1
+1150,"3333",701,"Servings Per Container:",30,,1
+1151,"3333",701,"Hoodia (<i>Hoodia gordonii</i>) (Aerial Parts)","500 mg*"," ",1
+1152,"3333",701,"(Equivalent to 10,000 mg of Whole Plant)",," ",1
+1153,"3334",752,"Serving Size:","2 Vcaps&ampreg;",,1
+1154,"3334",752,"Servings Per Container:",60,,1
+1155,"3334",752,"Organic Red Yeast Rice (<em>Monascus purpureus</em>)","1.2 g (1,200 mg)","* ",1
+1156,"3334",752,"Milk Thistle (<em>Silybum marianum</em>) Standardized Extract (min. 80% Silymarin)","210 mg","* ",1
+1157,"3334",752,"Alpha Lipoic Acid","100 mg","* ",1
+1158,"3334",752,"CoQ10 (Coenzyme Q10) (as Ubiquinone)","60 mg","* ",1
+1159,"3335",700,"Serving Size:","2 Vcaps®",,1
+1160,"3335",700,"Servings Per Container:",60,,1
+1161,"3335",700,"Hoodia (<i>Hoodia gordonii</i>) (Aerial Parts)","500 mg*"," ",1
+1162,"3335",700,"(Equivalent to 10,000 mg of Whole Plant)",," ",1
+1163,"3340",744,"Serving Size:","2 Softgels",,1
+1164,"3340",744,"Servings Per Container:",45,,1
+1165,"3340",744,"Calories",10," ",1
+1166,"3340",744,"Calories from Fat",10," ",1
+1167,"3340",744,"Total Fat","1 g",2%,1
+1168,"3340",744,"Trans Fat","0 g","† ",1
+1169,"3340",744,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1170,"3340",744,"Zinc (from Zinc Gluconate)","20 mg",133%,1
+1171,"3340",744,"<b>Saw Palmetto Berry Extract†† (<i>Serenoa repens</i>)</b>","<b>160 mg</b>","<b>†</b> ",1
+1172,"3340",744,"<b>Pygeum Africanum Bark Extract (13%)</b>","<b>10 mg</b>","<b>†</b> ",1
+1173,"3340",744,"<b>Stinging Nettle Root Extract(<i>Urtica dioca</i>)(30 ppm scopoletin)</b>","<b>250 mg</b>","<b>†</b> ",1
+1174,"3340",744,"Pumpkin Seed Oil","950 mg","† ",1
+1175,"3340",744,"Lycopene (LYC-O-MATO®,  Natural Tomato Extract)","3 mg","† ",1
+1176,"3341",745,"Serving Size:","2 Softgels",,1
+1177,"3341",745,"Servings Per Container:",90,,1
+1178,"3341",745,"Calories",10," ",1
+1179,"3341",745,"Calories from Fat",10," ",1
+1180,"3341",745,"Total Fat","1 g",2%,1
+1181,"3341",745,"Trans Fat","0 g","† ",1
+1182,"3341",745,"Vitamin B-6 (from Pyridoxine HCl)","10 mg",500%,1
+1183,"3341",745,"Zinc (from Zinc Gluconate)","20 mg",133%,1
+1184,"3341",745,"<b>Saw Palmetto Berry Extract†† (<i>Serenoa repens</i>)</b>","<b>160 mg</b>","<b>†</b> ",1
+1185,"3341",745,"<b>Pygeum Africanum Bark Extract (13%)</b>","<b>10 mg</b>","<b>†</b> ",1
+1186,"3341",745,"<strong>Stinging Nettle Root Extract (<em>Urtica dioca</em>) </strong><strong>(30 ppm scopoletin)</strong>","<strong>250 mg</strong>","<strong>†</strong> ",1
+1187,"3341",745,"Pumpkin Seed Oil","950 mg","† ",1
+1188,"3341",745,"Lycopene (LYC-O-MATO® Natural Tomato Extract)","3 mg","† ",1
+1189,"3342",753,"Serving Size:","1 Vcap&ampreg;",,1
+1190,"3342",753,"Servings Per Container:",60,,1
+1191,"3342",753,"Relora®* (A proprietary blend of a patented** extract from <em>Magnolia officinalis</em> bark and a proprietary extract from <em>Phellodendron amurense </em>bark)","300 mg","† ",1
+1192,"3344",775,"Serving Size:","1 Vcap&ampreg;",,1
+1193,"3344",775,"Servings Per Container:",90,,1
+1194,"3344",775,"Vitamin C (from Calcium Ascorbate)","33 mg",60%,1
+1195,"3344",775,"Pantothenic Acid (from Calcium Pantothenate)","10 mg",100%,1
+1196,"3344",775,"Calcium (from Calcium Carbonate and Ascorbate)","12 mg",2%,1
+1197,"3344",775,"Magnesium (from Magnesium Oxide)","8 mg",2%,1
+1198,"3344",775,"Chromium (from Chromium Chelavite® AAC)","20 mcg",15%,1
+1199,"3344",775,"Relora® (a proprietary blend of a patented** extract from <i>Magnolia</","200 mg","† ",1
+1200,"3344",775,"<i>officinalis<i> bark and a proprietary extract from  <i>Phellodendron</i>",," ",1
+1201,"3344",775,"<i>amurense</i> bark)",," ",1
+1202,"3344",775,"Green Tea Extract (<i>Camelia sinensis</i>) (Leaf)","90 mg","† ",1
+1203,"3344",775,"(min. 95% Total Polyphenols and 50% EGCg)",," ",1
+1204,"3344",775,"Soy Lecithin","50 mg","† ",1
+1205,"3344",775,"Ashwagandha Extract (<i>Withania somnifera</i>) (Root)","20 mg","† ",1
+1206,"3344",775,"(min. 4.5% Withanolides)",," ",1
+1207,"3344",775,"Holy Basil Extract (<i>Ocimum tenulflorum</i>) (Leaf)","20 mg","† ",1
+1208,"3344",775,"(min. 2% Ursolic Acid)","20 mg","† ",1
+1209,"3344",775,"Reishi Mushroom (</i>Ganoderma lucidum</i>) (Whole Fruiting Body)","20 mg","† ",1
+1210,"3344",775,"Rhodiola Extract (<i>Rhodiola rosea</i>) (Root) (min. 3% Rosavins)","20 mg","† ",1
+1211,"3344",775,"Banaba Extract (<i>Lagerstroemia speciosa</i>) (Leaf)","4 mg","† ",1
+1212,"3344",775,"(min. 1% Corosolic Acid)",," ",1
+1213,"3355",592,"Serving Size:","2 Vcaps&ampreg;",,1
+1214,"3355",592,"Servings Per Container:",50,,1
+1215,"3355",592,"Organic Acai Palmberry (Freeze-Dried) (Euterpe oleracea) (Fruit Skin and Pulp)","1.0 g (1,000 mg)*"," ",1
+1216,"3365",796,"Serving Size:",,,1
+1217,"3365",796,"Servings Per Container:",,,1
+1218,"3368",781,"Serving Size:","2 Vcaps&ampreg;",,1
+1219,"3368",781,"Servings Per Container:",45,,1
+1220,"3368",781,"Vitamin B-6 (from Pyndoxine HCl)","2 mg",100%,1
+1221,"3368",781,"Folate (as Folic Acid)","400 mcg",100%,1
+1222,"3368",781,"Vitamin B-12 (as Methylcobalamin)","60 mcg",1000%,1
+1223,"3368",781,"Iodine (from Kelp and Irish Moss)","225 mcg",150%,1
+1224,"3368",781,"Zinc (from L-OptiZinc&ampreg; - Zinc L-Methionine Complex)","25 mg",167%,1
+1225,"3368",781,"Selenium (from L-Selenomethionine) (Yeast-Free)","50 mcg",71%,1
+1226,"3368",781,"Copper (from Copper Amino Acid Chelate)","1 mg",50%,1
+1227,"3368",781,"L-Tyrosine (Free-Form)","1.0 g (1,000 mg)","† ",1
+1228,"3368",781,"Irish Moss (<i>Chondrus crispus</i>) (Thallus)","200 mg","† ",1
+1229,"3368",781,"Guggul (<em>Commiphora mukul</em>) (Resinous Sap)<br /> Standardized Extract (min. 2.5% Guggulsterones)","75 mg","† ",1
+1230,"3368",781,"Organic Kelp (L<em>aminaria digitata</em>) (Whole Plant)","60 mg","† ",1
+1231,"3368",781,"Ashwagandha (<em>Witharia sommifera</em>) (Root)<br /> Standardized Extract (min. 4.5% Withanolides)","50 mg","† ",1
+1232,"3368",781,"Trace Mineral Concentrate","5 mg","† ",1
+1233,"3377",683,"Serving Size:","2 Vcaps&ampreg;",,1
+1234,"3377",683,"Servings Per Container:",30,,1
+1235,"3377",683,"EstroG-100™ (a proprietary blend of extracts of <em>Phlomis umbrosa</em>, <em>Cynanchum wilfordii</em> and <em>Angelica gigas Nakai</em>)","514 mg","* ",1
+1236,"3508",778,"Serving Size:","1 Vcap®",,1
+1237,"3508",778,"Servings Per Container:",120,,1
+1238,"3508",778,"Chromium (from Chromium Chelavite® Amino Acid Chelate)","60 mcg",50%,1
+1239,"3508",778,"Sytrinol® (Proprietary Blend of Natural Citrus and Palm Fruit Extract)","150 mg","† ",1
+1240,"3508",778,"Milk Thistle Extract (Silybum marianum) (Fruit/Seeds) (min. 80% Silymarin)","50 mg","† ",1
+1241,"3508",778,"Alpha Lipoic Acid","50 mg","† ",1
+1242,"3508",778,"Policosanol (frm Sugar Cane)","10 mg","† ",1
+1243,"3771",644,"Serving Size:","1 Tablet",,1
+1244,"3771",644,"Servings Per Container:",250,,1
+1245,"3771",644,"Beta-Carotene (as pro-Vitamin A 0.6 mg)","1,000 IU",20%,1
+1246,"3771",644,"Vitamin A (from Retinyl Palmitate)","4000 IU",80%,1
+1247,"3771",644,"Vitamin C (as Ascorbic Acid)","60 mg",100%,1
+1248,"3771",644,"Vitamin D (as Ergocalciferol)","100 IU",25%,1
+1249,"3771",644,"Vitamin E (from d-alpha Tocopheryl Succinate)","30 IU",100%,1
+1250,"3771",644,"Thiamine (from Thiamine HCl)","1.5 mg",100%,1
+1251,"3771",644,"Riboflavin","1.7 mg",100%,1
+1252,"3771",644,"Niacin (as Niacinamide)","20 mg",100%,1
+1253,"3771",644,"Vitamin B-6 (from Pyridoxine HCl)","2 mg",100%,1
+1254,"3771",644,"Folic Acid","400 mcg",100%,1
+1255,"3771",644,"Vitamin B-12 (as Cyanocobalamin)","6 mcg",100%,1
+1256,"3771",644,"Biotin","300 mcg",100%,1
+1257,"3771",644,"Pantothenic Acid (from Calcium d-Pantothenate)","10 mg",100%,1
+1258,"3771",644,"Calcium (from Calcium Carbonate)","150 mg",15%,1
+1259,"3771",644,"Iron (from Amino Acid Chelate)","9 mg",50%,1
+1260,"3771",644,"Iodine (from Potassium Iodide)","150 mcg",100%,1
+1261,"3771",644,"Magnesium (from Magnesium Oxide)","75 mg",19%,1
+1262,"3771",644,"Zinc (from Amino Acid Chelate)","15 mg",100%,1
+1263,"3771",644,"Selenium (from L-Selenomethionine)","35 mcg",50%,1
+1264,"3771",644,"Copper (from Amino Acid Chelate)","1 mg",50%,1
+1265,"3771",644,"Manganese (from Amino Acid Chelate)","2 mg",100%,1
+1266,"3771",644,"Chromium (from AAC**) (Chelavite®)","60 mcg",50%,1
+1267,"3771",644,"Molybdenum (from Sodium Molybdate)","35 mcg",47%,1
+1268,"3771",644,"Potassium (from Potassium Chloride)","40 mg",1%,1
+1269,"3771",644,"Boron (from Boron Citrate)","150 mcg","† ",1
+1270,"3771",644,"Lutein (from Marigold Extract)","100 mcg","† ",1
+1271,"3771",644,"Lycopene (from Natural Tomato Extract)","100 mcg","† ",1
+1272,"3771",644,"Vanadium (from Vanadyl Sulfate)","10 mcg","† ",1
+1273,"3856",767,"Serving Size:","1 Tablet",,1
+1274,"3856",767,"Servings Per Container:",90,,1
+1275,"3856",767,"Beta-Carotene (as pro-Vitamin A 3 mg)","5,000 IU",100%,1
+1276,"3856",767,"Vitamin C (from Calcium Ascorbate and as Ascorbic Acid)","200 mg",333%,1
+1277,"3856",767,"Vitamin D (as Ergocalciferol)","200 IU",50%,1
+1278,"3856",767,"Vitamin E (as d-alpha Tocopheryl Succinate)","100 IU",333%,1
+1279,"3856",767,"Thiamine (from Thiamine HCl)","25 mg",1667%,1
+1280,"3856",767,"Riboflavin","25 mg",1471%,1
+1281,"3856",767,"Niacin (as Niacinamide)","25 mg",125%,1
+1282,"3856",767,"Vitamin B-6 (from Pyridoxine HCl)","25 mg",1250%,1
+1283,"3856",767,"Folic Acid","400 mcg",100%,1
+1284,"3856",767,"Vitamin B-12 (as Cyanocobalamin)","100 mcg",1667%,1
+1285,"3856",767,"Biotin","100 mcg",33%,1
+1286,"3856",767,"Pantothenic Acid","25 mg",250%,1
+1287,"3856",767,"Calcium (from Calcium Carbonate and Calcium Ascorbate)","50 mg",5%,1
+1288,"3856",767,"Iron (from AAC**) (Bisglycinate) (Ferrochel®)","5 mg",28%,1
+1289,"3856",767,"Iodine (from Potassium Iodide)","150 mcg",100%,1
+1290,"3856",767,"Magnesium (from Magnesium Oxide and Magnesium Citrate)","30 mg",8%,1
+1291,"3856",767,"Zinc (from Amino Acid Chelate)","10 mg",67%,1
+1292,"3856",767,"Selenium (from L-Selenomethionine)","25 mcg",36%,1
+1293,"3856",767,"Copper (from Amino Acid Chelate)","500 mcg",25%,1
+1294,"3856",767,"Manganese (from Amino Acid Chelate)","3 mg",150%,1
+1295,"3856",767,"Chromium (from AAC**) (Chelavite®)","25 mcg",21%,1
+1296,"3856",767,"Molybdenum (from Sodium Molybdate)","50 mcg",67%,1
+1297,"3856",767,"Potassium (from Potassium Chloride)","20 mg",1%,1
+1298,"3856",767,"Choline (from Choline Bitartrate)","25 mg","† ",1
+1299,"3856",767,"Inositol","25 mg","† ",1
+1300,"3856",767,"PABA","25 mg","† ",1
+1301,"3856",767,"Boron (from Boron Citrate)","500 mcg","† ",1
+1302,"3856",767,"Vanadium (from Vanadyl Sulfate)","50 mcg","† ",1
+1303,"3856",767,"<b>Spirulina (Algae)</b>","<b>50 mg</b>","<b>†</b> ",1
+1304,"3856",767,"<b>Chlorella (Broken Cell Wall) (Algae)</b>","<b>50 mg</b>","<b>†</b> ",1
+1305,"3856",767,"<b>Barley Grass (Organic)</b>","<b>50 mg</b>","<b>†</b> ",1
+1306,"3856",767,"Lipase (400 USP/g)","5 mg","† ",1
+1307,"3856",767,"Rutin","10 mg","† ",1
+1308,"3856",767,"Citrus Bioflavonoids (37% as Hesperidin)","25 mg","† ",1
+1309,"3856",767,"Betaine HCl","10 mg","† ",1
+1310,"3856",767,"Glutamic Acid","10 mg","† ",1
+1311,"3856",767,"Papain (Papaya) (140 MCU/g)","5 mg","† ",1
+1312,"3856",767,"Bromelain (2400 GDU/g)","5 mg","† ",1
+1313,"3856",767,"Amylase (5000 USP/g)","5 mg","† ",1
+1314,"3856",767,"Lutein (from Marigold Extract)","250 mcg","† ",1
+1315,"3856",767,"Lycopene (from Natural Tomato Extract)","250 mcg","† ",1
+1316,"3856",767,"Alpha Lipoic Acid","25 mg","† ",1
+1317,"3864",768,"Serving Size:","2 Tablets",,1
+1318,"3864",768,"Servings Per Container:",90,,1
+1319,"3864",768,"Beta-Carotene (as pro-Vitamin A 6 mg)","10,000 IU",200%,1
+1320,"3864",768,"Vitamin C (from Calcium Ascorbate and as Ascorbic Acid)","500 mg",833%,1
+1321,"3864",768,"Vitamin D (as Ergocalciferol)","400 IU",100%,1
+1322,"3864",768,"Vitamin E (as d-alpha Tocopheryl Succinate)","200 IU",667%,1
+1323,"3864",768,"Thiamine (from Thiamine HCl)","50 mg",3333%,1
+1324,"3864",768,"Riboflavin","50 mg",2941%,1
+1325,"3864",768,"Niacin (as Niacinamide)","50 mg",250%,1
+1326,"3864",768,"Vitamin B-6 (as Pyridoxine HCl)","50 mg",2500%,1
+1327,"3864",768,"Folic Acid","400 mcg",100%,1
+1328,"3864",768,"Vitamin B-12 (as Cyanocobalamin)","100 mcg",1667%,1
+1329,"3864",768,"Biotin","100 mcg",33%,1
+1330,"3864",768,"Pantothenic Acid","50 mg",500%,1
+1331,"3864",768,"Calcium (from Calcium Carbonate and Calcium Ascorbate)","100 mg",10%,1
+1332,"3864",768,"Iron (from AAC*) (Bisglycinate) (Ferrochel®)","10 mg",56%,1
+1333,"3864",768,"Iodine (from Potassium Iodide)","150 mcg",100%,1
+1334,"3864",768,"Magnesium (from Magnesium Oxide and Magnesium Amino Acid Chelate)","50 mg",13%,1
+1335,"3864",768,"Zinc (from Amino Acid Chelate)","15 mg",100%,1
+1336,"3864",768,"Selenium (from L-Selenomethionine)","50 mcg",71%,1
+1337,"3864",768,"Copper (from Amino Acid Chelate)","1 mg",50%,1
+1338,"3864",768,"Manganese (from Amino Acid Chelate)","5 mg",250%,1
+1339,"3864",768,"Chromium (from AAC**) (Chelavite®)","100 mcg",83%,1
+1340,"3864",768,"Molybdenum (from Sodium Molybdate)","50 mcg",67%,1
+1341,"3864",768,"Potassium (from Potassium Chloride)","50 mg",1%,1
+1342,"3864",768,"Choline (from Choline Bitartrate)","50 mg","† ",1
+1343,"3864",768,"Inositol","50 mg","† ",1
+1344,"3864",768,"PABA","30 mg","† ",1
+1345,"3864",768,"Boron (from Boron Citrate)","1 mg","† ",1
+1346,"3864",768,"Vanadium (from Vanadyl Sulfate)","50 mcg","† ",1
+1347,"3864",768,"<b>Spirulina (Algae)</b>","<b>250 mg</b>","<b>†</b> ",1
+1348,"3864",768,"<b>Chlorella (Broken Cell Wall) (Algae)</b>","<b>250 mg</b>","<b>†</b> ",1
+1349,"3864",768,"<b>Barley Grass (Organic)</b>","<b>250 mg</b>","<b>†</b> ",1
+1350,"3864",768,"<b>Alfalfa Juice Concentrate</b>","<b>100 mg</b>","<b>†</b> ",1
+1351,"3864",768,"Octocosanol (Wheat-Free)","100 mcg","† ",1
+1352,"3864",768,"Green Tea Extract (<1 mg of caffeine)","50 mg","† ",1
+1353,"3864",768,"Milk Thistle Extract (80% Silymarin)","50 mg","† ",1
+1354,"3864",768,"Lipase (400 USP/g)","10 mg","† ",1
+1355,"3864",768,"Rutin","25 mg","† ",1
+1356,"3864",768,"Citrus Bioflavonoids (37% as Hesperidin)","50 mg","† ",1
+1357,"3864",768,"Apple Pectin","25 mg","† ",1
+1358,"3864",768,"Papain (Papaya) (140 MCU/g)","25 mg","† ",1
+1359,"3864",768,"Bromelain (2400 GDU/g)","20 mg","† ",1
+1360,"3864",768,"Amylase (5000 USP/g)","10 mg","† ",1
+1361,"3864",768,"Chlorophyll","9 mg","† ",1
+1362,"3864",768,"Lutein (from Marigold Extract)","250 mcg","† ",1
+1363,"3864",768,"Lycopene (from Natural Tomato Extract)","250 mcg","† ",1
+1364,"3864",768,"Alpha Lipoic Acid","50 mg","† ",1
+1365,"3875",595,"Serving Size:","2 Tablets",,1
+1366,"3875",595,"Servings Per Container:",30,,1
+1367,"3875",595,"Beta-Carotene (as pro-Vitamin A 6 mg)","10,000 IU",200%,1
+1368,"3875",595,"Vitamin C (from Calcium Ascorbate)","350 mg",583%,1
+1369,"3875",595,"Vitamin D (as Ergocalciferol)","400 IU",100%,1
+1370,"3875",595,"Vitamin E (from d-alpha Tocopheryl Succinate)","200 IU",667%,1
+1371,"3875",595,"Vitamin K (as Phytonadione)","50 mcg",63%,1
+1372,"3875",595,"Thiamine (Vit B-1) (from Thiamine HCl)","25 mg",1667%,1
+1373,"3875",595,"Riboflavin (Vitamin B-2)","25 mg",1471%,1
+1374,"3875",595,"Niacin (Vitamin B-3) (as Niacinamide)","50 mg",250%,1
+1375,"3875",595,"Vitamin B-6 (from Pyridoxine HCl and Pyridoxal-5-Phosphate (P-5-P))","25 mg",1250%,1
+1376,"3875",595,"Folate (as Folic Acid)","800 mcg",200%,1
+1377,"3875",595,"Vitamin B-12 (as Methylcobalamin)","250 mcg",4167%,1
+1378,"3875",595,"Biotin","300 mcg",100%,1
+1379,"3875",595,"Pantothenic Acid (Vitamin B-5) (from Calcium d-Pantothenate)","100 mg",1000%,1
+1380,"3875",595,"Calcium (from Calcium Carbonate and Calcium Ascorbate)","350 mg",35%,1
+1381,"3875",595,"Iodine (from Kelp)","225 mcg",150%,1
+1382,"3875",595,"Magnesium (from Magnesium Oxide, Magnesium Citrate and ZMA&#174;)","100 mg",25%,1
+1383,"3875",595,"Zinc ((from ZinMax&ampreg; (Zinc Picolinate) and ZMA&ampreg;)","30 mg",200%,1
+1384,"3875",595,"Selenium (from L-Selenomethionine)","200 mcg",286%,1
+1385,"3875",595,"Copper (from Copper AAC*)","500 mcg",25%,1
+1386,"3875",595,"Manganese (from Manganese AAC*)","3 mg",150%,1
+1387,"3875",595,"Chromium (from Chromium Chelavite®)","200 mcg",167%,1
+1388,"3875",595,"Molybdenum (from Molybdenum AAC*)","50 mcg",67%,1
+1389,"3875",595,"Potassium (from Potassium Chloride)","50 mg",1%,1
+1390,"3875",595,"Saw Palmetto Extract (Berries)<br />(<em>Serenoa repens</em>) (min. 45% Fatty Acids)","160 mg","† ",1
+1391,"3875",595,"Panax Ginseng Extract (Roots) (min. 5% Ginsenosides)","100 mg","† ",1
+1392,"3875",595,"ZMA®","55 mg","† ",1
+1393,"3875",595,"Alpha Lipoic Acid","50 mg","† ",1
+1394,"3875",595,"Choline (from Choline Bitartrate)","50 mg","† ",1
+1395,"3875",595,"Kelp (<em>Laminaria digitata</em>) (Whole Plant)","45 mg","† ",1
+1396,"3875",595,"Ginkgo Biloba Extract (Leaf) (min. 24% Ginkgoflavonglycosides)","30 mg","† ",1
+1397,"3875",595,"Nettle Extract (Root) (<em>Urtica dioica</em>)","25 mg","† ",1
+1398,"3875",595,"Grape Seed Extract (<em>Vitis vinifera</em>) (min. 90% Total Polyphenols)","25 mg","† ",1
+1399,"3875",595,"Inositol (from Inositol Granules and Inositol Nicolinate)","25 mg","† ",1
+1400,"3875",595,"Bromelain (2400 GDU/g)","25 mg","† ",1
+1401,"3875",595,"Lipase (80,000 LU/g)","12.5 mg","† ",1
+1402,"3875",595,"Papain (2000 USP/mg)","12.5 mg","† ",1
+1403,"3875",595,"Amylase (5,000 FCC/g)","5 mg","† ",1
+1404,"3875",595,"CoQ10 (as Ubiquinone)","5 mg","† ",1
+1405,"3875",595,"Lycopene (from Natural Tomato Extract)","1 mg","† ",1
+1406,"3875",595,"Boron (from Boron AAC*)","1 mg","† ",1
+1407,"3875",595,"Lutein (from FloraGLO®)","500 mcg","† ",1
+1408,"3875",595,"Vanadium (from Vanadium AAC*)","100 mcg","† ",1
+1409,"4603",607,"Serving Size:","1 Vcap®",,1
+1410,"4603",607,"Servings Per Container:",90,,1
+1411,"4603",607,"Ashwagandha (<i>Withania somnifera</i>) Extract (Root)","450mg*"," ",1
+1412,"4603",607,"(Standardized to min. 4.5% Total Withanolides)",," ",1
+1454,"4614",619,"Serving Size:","1 Vcap&ampreg;",,1
+1455,"4614",619,"Servings Per Container:",120,,1
+1456,"4614",619,"Boswellia Extract (<em>Boswellia serrata</em>) (Gum Resin) (min. 65% Boswellic Acids)<br />","250 mg","* ",1
+1457,"4614",619,"<div>Turmeric Root Extract (<em>Curcumin longa</em>) (min. 95% Curcuminoids)</div>","100 mg","* ",1
+1458,"4614",619,"<span>Turmeric Root Powder (<em>Curcuma longa</em>)</span>","100 mg","* ",1
+1494,"4626",626,"Serving Size:","1 Vcap®",,1
+1495,"4626",626,"Servings Per Container:",60,,1
+1496,"4626",626,"<strong>Celery Seed Standardized Extract</strong><em> (Apium graveolens)</em>1","<strong>100 mg*</strong>"," ",1
+1497,"4626",626,"<strong>Horse Chestnut Standardized Extract</strong><em> (Aesculus hippocastanum)(seed)2</em>","<strong>200 mg*</strong>"," ",1
+1498,"4626",626,"<strong>Hawthorn Standardized Extract </strong><em>(Crataegus laevigata)</em>(Leaf and Flower)3","<strong>25 mg*</strong>"," ",1
+1636,"4677",660,"Serving Size:","2 capsules",,1
+1637,"4677",660,"Servings Per Container:",50,,1
+1638,"4677",660,"Total Carbohydrate","<1 g",1%,1
+1639,"4677",660,"Fenugreek Powder (Trigonella foenum-graecum) (seed)","1 g (1000 mg)","† ",1
+1715,"4703",678,"Serving Size:","2 Capsules",,1
+1716,"4703",678,"Servings Per Container:",50,,1
+1717,"4703",678,"Soursop (Graviola) (<i>Annona muricata</i>) (Leaf)","1.0 g (1,000 mg)","* ",1
+1738,"4709",681,"Serving Size:","1 Capsule",,1
+1739,"4709",681,"Servings Per Container:",90,,1
+1740,"4709",681,"Total Carbohydrate","<1 g","<1% ",1
+1741,"4709",681,"<b>Guggul Extract</b>","<b>750 mg</b>","<b>†</b> ",1
+1742,"4709",681,"<b>(<i>Commiphora mukul</i>) (min. 2.5% Guggulsterones)</b>",," ",1
+1757,"4713",685,"Serving Size:","1 Capsule",,1
+1758,"4713",685,"Servings Per Container:",90,,1
+1759,"4713",685,"<b>Horse Chestnut Extract</b> (<i>Aesculus hippocastanum</i>) (Seed)","<b>300 mg*</b>"," ",1
+1760,"4713",685,"(Standardized to contain min. 20% (60 mg) Triterpenoid Saponins as Aescin)",," ",1
+1761,"4713",685,"Rutin","200 mg*"," ",1
+1762,"4715",682,"Serving Size:","2 Capsules",,1
+1763,"4715",682,"Servings Per Container:",50,,1
+1764,"4715",682,"Total Carbohydrate","0.9 g","<1% ",1
+1765,"4715",682,"<b>Hawthorn Berry (<i>Crataegus oxyacantha</i>) (Fruit)</b>","<b>1.1 g (1,100 mg)</b>","<b>†</b> ",1
+1779,"4719",771,"Serving Size:","2 Vcaps®",,1
+1780,"4719",771,"Servings Per Container:",45,,1
+1781,"4719",771,"Total Carbohydrate","0.8 g","&#60;1%* ",1
+1782,"4719",771,"<strong>Stinging Nettle Extract*<br />  (<em>Urtica dioica</em>) (Root)</strong>","<strong>500 mg</strong>","<strong>†</strong> ",1
+1783,"4727",739,"Serving Size:","1 Softgel",,1
+1784,"4727",739,"Servings Per Container:",90,,1
+1785,"4727",739,"Peppermint Oil (<em>Mentha piperita</em>)","0.2 mL/181.0 mg*"," ",1
+1786,"4727",739,"Ginger Oil (<i>Zingiber officinale</i>)","0.02 mL/17.6 mg*"," ",1
+1787,"4727",739,"Fennel Oil (<i>Foeniculum vulgare</i>)","0.02 mL/19.3 mg*"," ",1
+1788,"4732",730,"Serving Size:","1 Softgel",,1
+1789,"4732",730,"Servings Per Container:",90,,1
+1790,"4732",730,"<b>Oregano oil (<i>Origanum vulgare</i>)(min. 55% Carvacrol)</b>","<b>0.2 mL / 181.0 mg</b>","<b>*</b> ",1
+1791,"4732",730,"Ginger oil (<i>Zingiber officinale</i>)","0.02 mL / 17.6 mg","* ",1
+1792,"4732",730,"Fennel oil (<i>Foeniculum vulgare</i>)","0.02 mL / 19.3 mg","* ",1
+1793,"4773",788,"Serving Size:","1 Vcap®",,1
+1794,"4773",788,"Servings Per Container:",90,,1
+1795,"4773",788,"Chaste Berry Tree (Vitex) Extract (Fruit)<br /> (<em>Vitex agnus castus</em>) (Standardized to min. 0.5% Agnusides)","300 mg","* ",1
+1796,"4773",788,"Dong Quai&#160;&#160;(<em>Angelica sinensis</em>) (Root)","150 mg","* ",1
+1797,"4804",593,"Serving Size:","1 Tablespoon (15 mL)",,1
+1798,"4804",593,"Servings Per Container:",31,,1
+1799,"4804",593,"Calories",20," ",1
+1800,"4804",593,"Total Carbohydrate","5 g","2%* ",1
+1801,"4804",593,"<strong>Acai Liquid Concentrate (Contains Organic Acai Berry) (<em>Euterpe oleracea</em>) (Freeze-Dried) (Equivalent to 35,000 mg of Fresh Acai)</strong>","<strong>15 mL</strong>","<strong>†</strong> ",1
+1802,"4853",656,"Serving Size:","1 Teaspoon (5 mL)",,1
+1803,"4853",656,"Servings Per Container:",24,,1
+1804,"4853",656,"Calories",20," ",1
+1805,"4853",656,"Total Carbohydrate","4 g",2%,1
+1806,"4853",656,"Zinc (from Zinc Citrate)","5 mg",35%,1
+1807,"4853",656,"Proprietary Blend of:","5 mL","† ",1
+1808,"4853",656,"Elder (Sambucus nigra)(Flowers), Elderberry (Sambucus nigra)(Fruit),",," ",1
+1809,"4853",656,"Echniacea purpurea (Root Extract) and Zinc Citrate",," ",1
+1810,"5675",632,"Serving Size:","3 TBSP(15g)",,1
+1811,"5675",632,"Servings Per Container:",18,,1
+1812,"5675",632,"Calories",100," ",1
+1813,"5675",632,"Serving Size","3 TBSP (15 g)"," ",1
+1814,"5675",632,"Calories from Fat",90," ",1
+1815,"5675",632,"Total Fat","10 g",15%,1
+1816,"5675",632,"Saturated Fat","8.5 g",40%,1
+1817,"5675",632,"Trans Fat","0 g"," ",1
+1818,"5675",632,"Cholesterol","0 g",0%,1
+1819,"5675",632,"Total Carbohydrate","3.5 g",2%,1
+1820,"5675",632,"Dietary Fiber","0.5 g"," ",1
+1821,"5675",632,"Protein","1 g"," ",1
+1822,"5675",632,"Vitamin A",,0%,1
+1823,"5675",632,"Vitamin C",,0%,1
+1824,"5675",632,"Calcium",,0%,1
+1825,"5675",632,"Iron",,2%,1
+1826,"5720",737,"Serving Size:","about 2 Pieces (40 g)",,1
+1827,"5720",737,"Servings Per Container:","about 8.5",,1
+1828,"5720",737,"<strong>Calories</strong>",100," ",1
+1829,"5720",737,"Calories from Fat",0," ",1
+1830,"5720",737,"Total Fat","0 g",0%,1
+1831,"5720",737,"Saturated Fat","0 g",0%,1
+1832,"5720",737,"Trans Fat","0 g"," ",1
+1833,"5720",737,"<strong>Cholesterol</strong>","0 g",0%,1
+1834,"5720",737,"<strong>Sodium</strong>","10 mg","&#60;1% ",1
+1835,"5720",737,"<strong>Total Carbohydrate</strong>","26 g",9%,1
+1836,"5720",737,"<strong>Dietary Fiber</strong>","5 g",20%,1
+1837,"5720",737,"<strong>Sugars</strong>","16 g"," ",1
+1838,"5720",737,"<strong>Protein</strong>","2 g"," ",1
+1839,"5720",737,"Vitamin A",,8%,1
+1840,"5720",737,"Calcium",,6%,1
+1841,"5720",737,"Vitamin C",,2%,1
+1842,"5720",737,"Iron",,2%,1
+1843,"5831",706,"Serving Size:","1/4 Cup (25g) = 8 oz Milk",,1
+1844,"5831",706,"Servings Per Container:",15,,1
+1845,"5831",706,"Calories",90," ",1
+1846,"5831",706,"Calories from fat",0," ",1
+1847,"5831",706,"Total fat","0 g",0%,1
+1848,"5831",706,"Saturated Fat","0 g",0%,1
+1849,"5831",706,"Cholesterol","0 mg",0%,1
+1850,"5831",706,"Sodium","130 mg",6%,1
+1851,"5831",706,"Total Carbohydrate","12 g",4%,1
+1852,"5831",706,"Dietary Fiber","0 g",0%,1
+1853,"5831",706,"Sugars","11 g"," ",1
+1854,"5831",706,"Protein","9 g"," ",1
+1855,"5831",706,"Vitamin A",,0%,1
+1856,"5831",706,"Calcium",,30%,1
+1857,"5831",706,"Vitamin C",,0%,1
+1858,"5831",706,"Iron",,0%,1
+1859,"5908",604,"Serving Size:","1 TBSP (10 g)",,1
+1860,"5908",604,"Servings Per Container:",34,,1
+1861,"5908",604,"Calories",25," ",1
+1862,"5908",604,"Calories from fat",0," ",1
+1863,"5908",604,"Total fat","0 g",0%,1
+1864,"5908",604,"Saturated Fat","0 g",0%,1
+1865,"5908",604,"Cholesterol","0 mg",0%,1
+1866,"5908",604,"Sodium","0 mg",0%,1
+1867,"5908",604,"Total Carbohydrate","9 g",3%,1
+1868,"5908",604,"Dietary Fiber","4 g",16%,1
+1869,"5908",604,"Sugars","4 g"," ",1
+1870,"5908",604,"Protein","0 g"," ",1
+1871,"5972",747,"Serving Size:","3 Capsules",,1
+1872,"5972",747,"Servings Per Container:",166,,1
+1873,"5972",747,"Calories",6," ",1
+1874,"5972",747,"Total Carbohydrates","1.3 g","<1% ",1
+1875,"5972",747,"Dietary Fiber ††","1.1 g",4%,1
+1876,"5972",747,"<b>Psyllium Husk Powder (<i>Plantago asiatica</i>) (Seed)</b>","<b>1.5 g (1,500 mg)</b>","<b>†</b> ",1
+1877,"5975",746,"Serving Size:","1 Level Tablespoon",,1
+1878,"5975",746,"Servings Per Container:",37,,1
+1879,"5975",746,"Calories",34," ",1
+1880,"5975",746,"Total Carbohydrates","8 g",3%,1
+1881,"5975",746,"Dietary Fiber","6.7 g",27%,1
+1882,"5975",746,"Calcium","27 mg",3%,1
+1883,"5975",746,"Iron","162 mcg","<1% ",1
+1884,"5975",746,"Psyllium Husks (<i>Plantago asiatica</i>) (seed)","9 g","† ",1
+1885,"5993",662,"Serving Size:","2 1/2 Tablespoons (17 g)",,1
+1886,"5993",662,"Servings Per Container:",26,,1
+1887,"5993",662,"Calories",80," ",1
+1888,"5993",662,"Calories from Fat",40," ",1
+1889,"5993",662,"Total Fat","4 g","6%* ",1
+1890,"5993",662,"Saturated Fat","0.5 g","3%* ",1
+1891,"5993",662,"Trans Fat","0 g","† ",1
+1892,"5993",662,"Cholesterol","0 mg",0%,1
+1893,"5993",662,"Total Carbohydrate","8 g","3%* ",1
+1894,"5993",662,"Dietary Fiber","7 g","28%* ",1
+1895,"5993",662,"Sugars","0 g","† ",1
+1896,"5993",662,"Protein","3 g","6%* ",1
+1897,"5993",662,"Proprietary Organic Fiber Blend of:<br />Organic Golden Flax Seed Meal (cold-milled), Organic Gum Acacia, and Organic Inulin (FOS)","17 g","† ",1
+1898,"5993",662,,," ",1
+1899,"5993",662,"<strong>Naturally occurring fatty acids (example) (per serving)**</strong>",," ",1
+1900,"5993",662,"Omega-3 Fatty Acids (Alpha Linolenic Acid)","2,550 mg"," ",1
+1901,"5993",662,"Omega-6 Fatty Acids (Linoleic Acid)","765 mg"," ",1
+1902,"5993",662,"Omega-9 Fatty Acids (Oleic Acid)","895 mg"," ",1
+1903,"5993",662,"** subject to natural variability",," ",1
+1904,"6268",676,"Serving Size:","2 TBSP",,1
+1905,"6268",676,"Servings Per Container:",,,1
+1906,"6268",676,"Calories",130," ",1
+1907,"6268",676,"Serving Size","2 Tbsp. (21 g)"," ",1
+1908,"6268",676,"Calories from Fat",80," ",1
+1909,"6268",676,"Servings Per Container",21," ",1
+1910,"6268",676,"Total Fat","9 g",14%,1
+1911,"6268",676,"Saturated Fat","1 g",5%,1
+1912,"6268",676,"Trans Fat","0 g"," ",1
+1913,"6268",676,"Cholesterol","0 mg",0%,1
+1914,"6268",676,"Sodium","8 mg",1%,1
+1915,"6268",676,"Total Carbohydrate","8 g",3%,1
+1916,"6268",676,"Dietary Fiber","8 g",32%,1
+1917,"6268",676,"Sugars","0 g"," ",1
+1918,"6268",676,"Protein","4 g"," ",1
+1919,"6268",676,"Vitamin A",,0%,1
+1920,"6268",676,"Vitamin C",,0%,1
+1921,"6268",676,"Calcium",,6%,1
+1922,"6268",676,"Iron",,15%,1
+1923,"6515",677,"Serving Size:","2 Vcaps&ampreg;",,1
+1924,"6515",677,"Servings Per Container:",60,,1
+1925,"6515",677,"Grapefruit Pectin","1.0 g (1,000 mg)","* ",1
+1926,"6675",686,"Serving Size:","2 Tablespoons (25 g)",,1
+1927,"6675",686,"Servings Per Container:",27,,1
+1928,"6675",686,"Calories",100," ",1
+1929,"6675",686,"Calories from Fat",5," ",1
+1930,"6675",686,"<strong>Total Fat</strong>","0.5 g",1%,1
+1931,"6675",686,"Saturated Fat","0 g",0%,1
+1932,"6675",686,"Trans Fat","0 g"," ",1
+1933,"6675",686,"<strong>Cholesterol</strong>","0 mg",0%,1
+1934,"6675",686,"<strong>Sodium</strong>","110 mg",5%,1
+1935,"6675",686,"<strong>Potassium</strong>","140 mg",4%,1
+1936,"6675",686,"<strong>Total Carbohydrate</strong>","21 g",7%,1
+1937,"6675",686,"Dietary Fiber","1 g",4%,1
+1938,"6675",686,"Sugars","19 g"," ",1
+1939,"6675",686,"<b>Protein</b>","2 g"," ",1
+1940,"6675",686,,," ",1
+1941,"6675",686,"Vitamin A",,0%,1
+1942,"6675",686,"Vitamin C",,0%,1
+1943,"6675",686,"Calcium",,6%,1
+1944,"6675",686,"Iron",,4%,1
+1945,"6717",764,"Serving Size:","24 Sticks (28 g)",,1
+1946,"6717",764,"Servings Per Container:",9,,1
+1947,"6717",764,"<strong>Calories</strong>",150," ",1
+1948,"6717",764,"Calories From Fat",80," ",1
+1949,"6717",764,"<strong>Total Fat</strong>","9 g",14%,1
+1950,"6717",764,"Saturated Fat","0.5 g",3%,1
+1951,"6717",764,"Trans Fat","0 g"," ",1
+1952,"6717",764,"<strong>Cholesterol</strong>","0 g",0%,1
+1953,"6717",764,"<strong>Sodium</strong>","230 mg",10%,1
+1954,"6717",764,"<strong>Total Carbohydrate</strong>","15 g",5%,1
+1955,"6717",764,"Dietary Fiber","1 g",4%,1
+1956,"6717",764,"Sugars","0 g"," ",1
+1957,"6717",764,"<strong>Protein</strong>","3 g"," ",1
+1958,"6717",764,"Vitamin A",,2%,1
+1959,"6717",764,"Vitamin C",,0%,1
+1960,"6717",764,"Calcium",,6%,1
+1961,"6717",764,"Iron",,6%,1
+1962,"6781",759,"Serving Size:","1/3 Cup",,1
+1963,"6781",759,"Servings Per Container:",11,,1
+1964,"6781",759,"Calories",150," ",1
+1965,"6781",759,"Calories from fat",60," ",1
+1966,"6781",759,"Total Fat","6 g",10%,1
+1967,"6781",759,"Saturated fat","1.5 g",8%,1
+1968,"6781",759,"Cholesterol","0 mg",0%,1
+1969,"6781",759,"Sodium","80 mg",3%,1
+1970,"6781",759,"Total Carbohydrate","6 g",2%,1
+1971,"6781",759,"Dietary Fiber","1 g",4%,1
+1972,"6781",759,"Sugar","1 g"," ",1
+1973,"6781",759,"Protein","14 g"," ",1
+1974,"6781",759,"Vitamin A",,0%,1
+1975,"6781",759,"Calcium",,6%,1
+1976,"6781",759,"Magnesium",,15%,1
+1977,"6781",759,"Vitamin C",,0%,1
+1978,"6781",759,"Iron",,8%,1
+1979,"6781",759,"Zinc",,10%,1
+1980,"6791",762,"Serving Size:","1/3 Cup",,1
+1981,"6791",762,"Servings Per Container:",11,,1
+1982,"6791",762,"Calories",150," ",1
+1983,"6791",762,"Calories from fat",60," ",1
+1984,"6791",762,"Total Fat","6 g",10%,1
+1985,"6791",762,"Saturated Fat","1.5 g",8%,1
+1986,"6791",762,"Cholesterol","0 mg",0%,1
+1987,"6791",762,"Sodium","0 mg",0%,1
+1988,"6791",762,"Total Carbohydrates","6 g",2%,1
+1989,"6791",762,"Dietary Fiber","4 g",16%,1
+1990,"6791",762,"Sugar","1 g"," ",1
+1991,"6791",762,"Protein","14 g"," ",1
+1992,"6791",762,"Vitamin A",,0%,1
+1993,"6791",762,"Calcium",,6%,1
+1994,"6791",762,"Magnesium",,15%,1
+1995,"6791",762,"Vitamin C",,0%,1
+1996,"6791",762,"Iron",,8%,1
+1997,"6791",762,"Zinc",,10%,1
+1998,"6920",645,"Serving Size:","2 Teaspoon (6 g)",,1
+1999,"6920",645,"Servings Per Container:",75,,1
+2000,"6920",645,"Calories",20," ",1
+2001,"6920",645,"Calories from Fat",0," ",1
+2002,"6920",645,"Total Fat","0 g",0%,1
+2003,"6920",645,"Total Carbohydrate","5 g",1%,1
+2004,"6920",645,"Sugars","4 g"," ",1
+2005,"6920",645,"Sodium","0 mg",0%,1
+2006,"6920",645,"Protein","0 g"," ",1
+2007,"6927",659,"Serving Size:","1 Teaspoon",,1
+2008,"6927",659,"Servings Per Container:",113,,1
+2009,"6927",659,"Calories",0," ",1
+2010,"6927",659,"Calories from Fat",0," ",1
+2011,"6927",659,"Total Fat","0 g",0%,1
+2012,"6927",659,"Total Carbohydrate","4 g",1%,1
+2013,"6927",659,"Sugars","0 g"," ",1
+2014,"6927",659,"Sugar Alcohol","4 g"," ",1
+2015,"6927",659,"Sodium","0 mg",0%,1
+2016,"6927",659,"Protein","0 g"," ",1
+2017,"6933",663,"Serving Size:","1 Teaspoon",,1
+2018,"6933",663,"Servings Per Container:",340,,1
+2019,"6933",663,"Calories",15," ",1
+2020,"6933",663,"Calories from fat",0," ",1
+2021,"6933",663,"Total Fat","0 g",0%,1
+2022,"6933",663,"Total Carbohydrate","4 g",1%,1
+2023,"6933",663,"Sugars","4 g"," ",1
+2024,"6933",663,"Sodium","0 g"," ",1
+2025,"6933",663,"Protein","0 g"," ",1
+2026,"6960",770,"Serving Size:","1 Level Scoop (45 mg)",,1
+2027,"6960",770,"Servings Per Container:",622,,1
+2028,"6960",770,"Calories",0," ",1
+2029,"6960",770,"Total Fat","0 g",0%,1
+2030,"6960",770,"Sodium","0 mg",0%,1
+2031,"6960",770,"Total Carbohydrate","0 g",0%,1
+2032,"6960",770,"Sugars","0 g"," ",1
+2033,"6960",770,"Protein","0 g"," ",1
+2034,"6965",773,"Serving Size:","1 level tsp. (3.5 g)",,1
+2035,"6965",773,"Servings Per Container:",259,,1
+2036,"6965",773,"Calories",15," ",1
+2037,"6965",773,"Calories from Fat",0," ",1
+2038,"6965",773,"Total Fat","0 g",0%,1
+2039,"6965",773,"Sodium","10 mg","&amplt; 1% ",1
+2040,"6965",773,"Total Carbohydrate","3 g",1%,1
+2041,"6965",773,"Dietary Fiber","0 g",0%,1
+2042,"6965",773,"Sugars","3 g"," ",1
+2043,"6965",773,"Protein","0 g"," ",1
+2044,"6968",769,"Serving Size:","1 Packet (1.1 g)",,1
+2045,"6968",769,"Servings Per Container:",100,,1
+2046,"6968",769,"Calories",0," ",1
+2047,"6968",769,"Total Carbohydrate","1 g","<1% ",1
+2048,"6968",769,"Dietary Fiber††","1 g",4%,1
+2049,"6968",769,"Chromium (from Chromium Chelavite®)","50 mcg",42%,1
+2050,"6968",769,"Inulin (FOS) (from Chicory Root)","900 mg","† ",1
+2051,"6968",769,"<strong>Certified Organic Stevia Extract (<em>Stevia rebaudiana</em>) (leaf)</strong>","<strong>130 mg</strong>","<strong>†</strong> ",1
+2052,"6972",784,"Serving Size:","1 Teaspoon",,1
+2053,"6972",784,"Servings Per Container:",278,,1
+2054,"6972",784,"Calories",15," ",1
+2055,"6972",784,"Calories from Fat",0," ",1
+2056,"6972",784,"Total Fat","0 g",0%,1
+2057,"6972",784,"Total Carbohydrate","4 g",1%,1
+2058,"6972",784,"Sugars","4 g"," ",1
+2059,"6972",784,"Sodium","0 mg",0%,1
+2060,"6972",784,"Protein","0 g"," ",1
+2061,"6983",797,"Serving Size:","1 Teaspoon (4 g)",,1
+2062,"6983",797,"Servings Per Container:",113,,1
+2063,"6983",797,"Calories",10," ",1
+2064,"6983",797,"Calories from Fat",0," ",1
+2065,"6983",797,"Total Fat","0 g",0%,1
+2066,"6983",797,"Total Carboyhydrate","4 g",1%,1
+2067,"6983",797,"Sugars","0 g"," ",1
+2068,"6983",797,"Sugar Alcohol","4 g"," ",1
+2069,"6983",797,"Sodium","0 mg",0%,1
+2070,"6983",797,"Protein","0 g"," ",1
+2071,"6983",797,,," ",1
+2072,"6983",797,"Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, Vitamin A, Vitamin C, Calcium or Iron.",," ",1
+2073,"6983",797,"* Percent Daily Values are based ona 2,000 calorie diet. &#160;Your daily values may be higher or lower depending on your calorie needs.",," ",1
+2074,"6983",797,,"<strong>2,000<br /> Calorie</strong>","<strong>2,500<br /> Calorie</strong> ",1
+2075,"6983",797,"Total Fat &#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","65 g","80 g ",1
+2076,"6983",797,"Sat Fat &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","20 g","25 g ",1
+2077,"6983",797,"Cholesterol &#160;&#160;&#160;&#160;Less than","300 mg","300 mg ",1
+2078,"6983",797,"Sodium &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","2,400 mg","2,400 mg ",1
+2079,"6983",797,"Total Carbohydrate","300 g","375 g ",1
+2080,"6983",797,"Dietary Fiber","25 g","30 g ",1
+2081,"6983",797,"Calories per gram:<br /> Fat 9, Carbohydrate 4, Protein 4",," ",1
+2082,"6986",798,"Serving Size:","1 Teaspoon (4 g)",,1
+2083,"6986",798,"Servings Per Container:",283,,1
+2084,"6986",798,"Calories",10," ",1
+2085,"6986",798,"Calories from Fat",0," ",1
+2086,"6986",798,"Total Fat","0 g",0%,1
+2087,"6986",798,"Total Carbohydrate","4 g",1%,1
+2088,"6986",798,"Sugars","0 g"," ",1
+2089,"6986",798,"Sugar Alcohol","4 g"," ",1
+2090,"6986",798,"Sodium","0 mg",0%,1
+2091,"6986",798,"Protein","0 g"," ",1
+2092,"6986",798,,," ",1
+2093,"6986",798,"Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, Vitamin A, Vitamin C, Calcium or Iron.",," ",1
+2094,"6986",798,"* Percent Daily Values are based on a 2,000 calorie diet. &#160;Your daily values may be higher or lower depending on your calorie needs.",," ",1
+2095,"6986",798,,"<strong>2,000<br /> Calorie</strong>","<strong>2,500<br /> Calorie</strong> ",1
+2096,"6986",798,"Total Fat &#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","65 g","80 g ",1
+2097,"6986",798,"Sat Fat &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","20 g","25 g ",1
+2098,"6986",798,"Cholesterol &#160;&#160;&#160;&#160;Less than","300 mg","300 mg ",1
+2099,"6986",798,"Sodium &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Less than","2,400 mg","2,400 mg ",1
+2100,"6986",798,"Total Carbohydrate &#160;&#160;&#160;&#160;Less than","300 g","375 g ",1
+2101,"6986",798,"Dietary Fiber","25 g","30 g ",1
+2102,"6986",798,"Calories per gram:<br /> Fat 9, Carbohydrate 4, Protein 4",," ",1
+2103,"6988",799,"Serving Size:","1 Packet (1.8 g)",,1
+2104,"6988",799,"Servings Per Container:",75,,1
+2105,"6988",799,"Calories",2.3," ",1
+2106,"6988",799,"Total Carbohydrate","1.76 g","<1% ",1
+2107,"6988",799,"Sugar Alcohol (as Xylitol)","1.72 g","† ",1
+2108,"6988",799,"Stevia Extract (Leaf) (<i>Stevia rebaudiana</i>) (min. 80% Rebaudioside-A)","45 mg","† ",1
+2109,"7001",710,"Serving Size:","1/3 Cup (28 g)",,1
+2110,"7001",710,"Servings Per Container:",12,,1
+2111,"7001",710,"Calories",190," ",1
+2112,"7001",710,"Calories from Fat",170," ",1
+2113,"7001",710,"Total Fat","19 g",29%,1
+2114,"7001",710,"Saturated Fat","1.5 g",8%,1
+2115,"7001",710,"Cholesterol","0 g",0%,1
+2116,"7001",710,"Sodium","0 g",0%,1
+2117,"7001",710,"Total Carbohydrate","5 g",2%,1
+2118,"7001",710,"Dietary Fiber","2 g",8%,1
+2119,"7001",710,"Sugars","0 g"," ",1
+2120,"7001",710,"Protein","2 g"," ",1
+2121,"7001",710,"Vitamin A",,0%,1
+2122,"7001",710,"Calcium",,0%,1
+2123,"7001",710,"Zinc",,10%,1
+2124,"7001",710,"Vitamin C",,0%,1
+2125,"7001",710,"Iron",,3%,1
+2126,"7001",710,"Magnesium",,9%,1
+2127,"7005",708,"Serving Size:","3 Tbsp(38g)",,1
+2128,"7005",708,"Servings Per Container:",12,,1
+2129,"7005",708,"Calories",160," ",1
+2130,"7005",708,"Calories from fat",130," ",1
+2131,"7005",708,"Total fat","14 g",22%,1
+2132,"7005",708,"Saturated Fat","1 g",5%,1
+2133,"7005",708,"Cholesterol","0 g",0%,1
+2134,"7005",708,"Sodium","5 mg",0%,1
+2135,"7005",708,"Total Carbohydrate","5 g",2%,1
+2136,"7005",708,"Dietary Fiber","3 g",12%,1
+2137,"7005",708,"Sugars","0 g"," ",1
+2138,"7005",708,"Protein","6 g"," ",1
+2139,"7005",708,"Vitamin A",,0%,1
+2140,"7005",708,"Vitamin C",,0%,1
+2141,"7005",708,"Calcium",,8%,1
+2142,"7005",708,"Iron",,6%,1
+2143,"7005",708,"Vitamin E",,70%,1
+2144,"7005",708,"Magnesium",,20%,1
+2145,"7012",709,"Serving Size:","1 oz. (28 g)",,1
+2146,"7012",709,"Servings Per Container:",12,,1
+2147,"7012",709,"Calories",200," ",1
+2148,"7012",709,"Calories from Fat",170," ",1
+2149,"7012",709,"Total Fat","18.5 g",28%,1
+2150,"7012",709,"Saturated Fat","4 g",20%,1
+2151,"7012",709,"Trans Fat","0 g"," ",1
+2152,"7012",709,"Cholesterol","0 mg",0%,1
+2153,"7012",709,"Sodium","0 mg",0%,1
+2154,"7012",709,"Total Carbohydrate","3.5 g",1%,1
+2155,"7012",709,"Dietary Fiber","2 g",8%,1
+2156,"7012",709,"Sugars","0.5 g"," ",1
+2157,"7012",709,"Protein","4 g"," ",1
+2158,"7012",709,"Vitamin A",,0%,1
+2159,"7012",709,"Vitamin C",,0%,1
+2160,"7012",709,"Calcium",,4%,1
+2161,"7012",709,"Iron",,4%,1
+2162,"7012",709,"Magnesium",,25%,1
+2163,"7012",709,"Selenium",,770%,1
+2164,"7025",760,"Serving Size:","1/4 cup",,1
+2165,"7025",760,"Servings Per Container:",15,,1
+2166,"7025",760,"Calories",185," ",1
+2167,"7025",760,"Calories from fat",130," ",1
+2168,"7025",760,"Total Fat","15 g",23%,1
+2169,"7025",760,"Saturated Fat","4 g",20%,1
+2170,"7025",760,"Cholesterol","0 g",0%,1
+2171,"7025",760,"Sodium","5 mg",0%,1
+2172,"7025",760,"Total Carbohydrate","4 g",1%,1
+2173,"7025",760,"Dietary fiber","3 g",12%,1
+2174,"7025",760,"Sugar","0 g"," ",1
+2175,"7025",760,"Protein","9 g"," ",1
+2176,"7025",760,"Vitamin A",,2%,1
+2177,"7025",760,"Calcium",,0%,1
+2178,"7025",760,"Magnesium",,40%,1
+2179,"7025",760,"Vitamin C",,0%,1
+2180,"7025",760,"Iron",,15%,1
+2181,"7025",760,"Zinc",,15%,1
+2182,"7030",711,"Serving Size:","1/4 Cup (38 g)",,1
+2183,"7030",711,"Servings Per Container:",11,,1
+2184,"7030",711,"Calories",200," ",1
+2185,"7030",711,"Calories from Fat",120," ",1
+2186,"7030",711,"Total Fat","13 g",20%,1
+2187,"7030",711,"Saturated Fat","1.5 g",8%,1
+2188,"7030",711,"Trans Fat","0 g"," ",1
+2189,"7030",711,"Cholesterol","0 mg",0%,1
+2190,"7030",711,"Total Carbohydrate","16 g",5%,1
+2191,"7030",711,"Dietary Fiber","2 g",8%,1
+2192,"7030",711,"Sugars","10 g"," ",1
+2193,"7030",711,"Protein","4 g"," ",1
+2194,"7030",711,"Vitamin A",,0%,1
+2195,"7030",711,"Vitamin C",,0%,1
+2196,"7030",711,"Calcium",,4%,1
+2197,"7030",711,"Iron",,8%,1
+2198,"7050",761,"Serving Size:","3 Tablespoons",,1
+2199,"7050",761,"Servings Per Container:",16,,1
+2200,"7050",761,"Calories",165," ",1
+2201,"7050",761,"Calories from fat",130," ",1
+2202,"7050",761,"Total Fat","14 g",22%,1
+2203,"7050",761,"Saturated Fat","1.5 g",8%,1
+2204,"7050",761,"Cholesterol","0 g",0%,1
+2205,"7050",761,"Sodium","0 g",0%,1
+2206,"7050",761,"Total Carbohydrate","6 g",2%,1
+2207,"7050",761,"Dietary Fiber","4 g",16%,1
+2208,"7050",761,"Sugars","0 g"," ",1
+2209,"7050",761,"Protein","7 G"," ",1
+2210,"7050",761,"Vitamin A",,0%,1
+2211,"7050",761,"Vitamin E",,150%,1
+2212,"7050",761,"Calcium",,4%,1
+2213,"7050",761,"Magnesium",,25%,1
+2214,"7050",761,"Vitamin C",,0%,1
+2215,"7050",761,"Copper",,25%,1
+2216,"7050",761,"Iron",,10%,1
+2217,"7050",761,"Zinc",,10%,1
+2218,"7054",763,"Serving Size:","1/4 Cup (31g)",,1
+2219,"7054",763,"Servings Per Container:",14,,1
+2220,"7054",763,"Calories",200," ",1
+2221,"7054",763,"Calories from fat",140," ",1
+2222,"7054",763,"Total fat","17 g",26%,1
+2223,"7054",763,"Saturated Fat","2 g",9%,1
+2224,"7054",763,"Polyunsaturated Fat","12 g"," ",1
+2225,"7054",763,"Monounsaturated Fat","3 g"," ",1
+2226,"7054",763,"Cholesterol","0 mg",0%,1
+2227,"7054",763,"Sodium","180 mg",7%,1
+2228,"7054",763,"Total Carbohydrate","6 g",2%,1
+2229,"7054",763,"Dietary Fiber","4 g",18%,1
+2230,"7054",763,"Sugars","0 g"," ",1
+2231,"7054",763,"Protein","8 g"," ",1
+2232,"7054",763,"Vitamin A",,0%,1
+2233,"7054",763,"Vitamin C",,0%,1
+2234,"7054",763,"Calcium",,4%,1
+2235,"7054",763,"Iron",,16%,1
+2236,"7054",763,"Vitamin E",,62%,1
+2237,"7054",763,"Magnesium",,10%,1
+2238,"7054",763,"Copper",,28%,1
+2239,"7073",712,"Serving Size:","1/4 Cup (30 g)",,1
+2240,"7073",712,"Servings Per Container:",11,,1
+2241,"7073",712,"Calories",215," ",1
+2242,"7073",712,"Calories from fat",180," ",1
+2243,"7073",712,"Total Fat","20 g",31%,1
+2244,"7073",712,"Saturated fat","2 g",10%,1
+2245,"7073",712,"Cholesterol","0 g",0%,1
+2246,"7073",712,"Sodium","0 mg",0%,1
+2247,"7073",712,"Total Carbohydrate","4 g",1%,1
+2248,"7073",712,"Dietary Fiber","2 g",8%,1
+2249,"7073",712,"Sugar","1 g"," ",1
+2250,"7073",712,"Protein","4.5 g"," ",1
+2251,"7073",712,"Vitamin A",,0%,1
+2252,"7073",712,"Calcium",,3%,1
+2253,"7073",712,"Magnesium",,12%,1
+2254,"7073",712,"Vitamin C",,0%,1
+2255,"7073",712,"Iron",,5%,1
+2256,"7073",712,"Zinc",,6%,1
+2257,"7320",628,"Serving Size:",,,1
+2258,"7320",628,"Servings Per Container:",,,1
+2259,"7520",715,"Serving Size:",,,1
+2260,"7520",715,"Servings Per Container:",,,1
+2261,"7525",716,"Serving Size:","&ampnbsp;",,1
+2262,"7525",716,"Servings Per Container:","&ampnbsp;",,1
+2263,"7530",717,"Serving Size:",,,1
+2264,"7530",717,"Servings Per Container:",,,1
+2265,"7535",718,"Serving Size:",,,1
+2266,"7535",718,"Servings Per Container:",,,1
+2267,"7540",719,"Serving Size:",,,1
+2268,"7540",719,"Servings Per Container:",,,1
+2269,"7541",720,"Serving Size:",,,1
+2270,"7541",720,"Servings Per Container:",,,1
+2271,"7545",722,"Serving Size:","&ampnbsp;",,1
+2272,"7545",722,"Servings Per Container:","&ampnbsp;",,1
+2273,"7546",723,"Serving Size:",,,1
+2274,"7546",723,"Servings Per Container:",,,1
+2275,"7552",724,"Serving Size:","&ampnbsp;",,1
+2276,"7552",724,"Servings Per Container:","&ampnbsp;",,1
+2277,"7560",726,"Serving Size:","&ampnbsp;",,1
+2278,"7560",726,"Servings Per Container:","&ampnbsp;",,1
+2279,"7570",729,"Serving Size:","&ampnbsp;",,1
+2280,"7570",729,"Servings Per Container:","&ampnbsp;",,1
+2281,"7585",731,"Serving Size:",,,1
+2282,"7585",731,"Servings Per Container:",,,1
+2283,"7600",732,"Serving Size:",,,1
+2284,"7600",732,"Servings Per Container:",,,1
+2285,"7620",733,"Serving Size:",,,1
+2286,"7620",733,"Servings Per Container:",,,1
+2287,"7625",734,"Serving Size:",,,1
+2288,"7625",734,"Servings Per Container:",,,1
+2289,"7663",727,"Serving Size:",,,1
+2290,"7663",727,"Servings Per Container:",,,1
+2291,"7664",721,"Serving Size:",,,1
+2292,"7664",721,"Servings Per Container:",,,1
+2293,"7670",714,"Serving Size:",,,1
+2294,"7670",714,"Servings Per Container:",,,1
+2295,"7680",631,"Serving Size:",,,1
+2296,"7680",631,"Servings Per Container:",,,1
+2297,"7695",787,"Serving Size:",,,1
+2298,"7695",787,"Servings Per Container:",,,1
+2299,"7700",786,"Serving Size:",,,1
+2300,"7700",786,"Servings Per Container:",,,1
+2301,"7705",725,"Serving Size:",,,1
+2302,"7705",725,"Servings Per Container:",,,1
+2303,"7733",728,"Serving Size:",,,1
+2304,"7733",728,"Servings Per Container:",,,1
+2305,"8067",646,"Serving Size:",,,1
+2306,"8067",646,"Servings Per Container:",,,1
+2307,"8090",800,"Serving Size:",,,1
+2308,"8090",800,"Servings Per Container:",,,1
