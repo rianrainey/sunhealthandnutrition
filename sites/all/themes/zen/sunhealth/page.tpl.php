@@ -137,9 +137,9 @@
 		<a href="https://twitter.com/#!/sunnutrition"><img src="<?php echo base_path() . path_to_theme(); ?>/css/images/twitter.png"></a>
 	</div><!--#social-->
 	
-	<div id="newsletter-btn">
+	<!--<div id="newsletter-btn">
 		<p>Newsletter Sign Up</p>
-	</div>
+	</div>-->
 	
 	<?php if ($utility): ?>
       <div id="utility" class="utility-block">
